@@ -1,0 +1,3 @@
+# Fast Food
+
+> Em breve.
