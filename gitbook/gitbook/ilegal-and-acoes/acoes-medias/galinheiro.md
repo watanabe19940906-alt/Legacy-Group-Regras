@@ -1,3 +1,0 @@
-# Galinheiro
-
-> Em breve.

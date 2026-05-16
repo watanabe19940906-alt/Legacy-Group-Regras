@@ -1,3 +1,0 @@
-# Mcdonalds
-
-> Em breve.

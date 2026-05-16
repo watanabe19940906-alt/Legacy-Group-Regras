@@ -1,3 +1,0 @@
-# Hotel Rosa
-
-> Em breve.

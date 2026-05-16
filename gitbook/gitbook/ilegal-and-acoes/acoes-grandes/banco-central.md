@@ -1,3 +1,0 @@
-# Banco Central
-
-> Em breve.

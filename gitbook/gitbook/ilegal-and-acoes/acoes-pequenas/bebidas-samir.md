@@ -1,3 +1,0 @@
-# Bebidas Samir
-
-> Em breve.

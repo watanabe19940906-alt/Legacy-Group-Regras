@@ -1,3 +1,0 @@
-# Comedy
-
-> Em breve.

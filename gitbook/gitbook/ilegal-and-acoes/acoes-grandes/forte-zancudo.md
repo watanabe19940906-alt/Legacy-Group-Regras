@@ -1,3 +1,0 @@
-# Forte Zancudo
-
-> Em breve.

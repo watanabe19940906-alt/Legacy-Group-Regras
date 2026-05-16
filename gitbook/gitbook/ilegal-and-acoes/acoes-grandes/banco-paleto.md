@@ -1,3 +1,0 @@
-# Banco Paleto
-
-> Em breve.

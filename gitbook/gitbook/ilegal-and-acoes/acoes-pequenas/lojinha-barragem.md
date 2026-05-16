@@ -1,3 +1,0 @@
-# Lojinha Barragem
-
-> Em breve.

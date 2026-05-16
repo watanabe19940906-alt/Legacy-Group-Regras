@@ -1,3 +1,0 @@
-# Lojinha Praia
-
-> Em breve.

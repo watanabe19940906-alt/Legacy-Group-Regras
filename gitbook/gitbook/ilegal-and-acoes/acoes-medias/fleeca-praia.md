@@ -1,3 +1,0 @@
-# Fleeca Praia
-
-> Em breve.

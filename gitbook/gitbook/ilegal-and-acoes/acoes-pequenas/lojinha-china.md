@@ -1,3 +1,0 @@
-# Lojinha China
-
-> Em breve.

@@ -1,3 +1,0 @@
-# Lojinha Prefeitura
-
-> Em breve.

@@ -1,3 +1,0 @@
-# Lojinha Groove
-
-> Em breve.

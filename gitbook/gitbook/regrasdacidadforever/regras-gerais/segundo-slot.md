@@ -1,3 +1,0 @@
-# Segundo Slot
-
-> Em breve.

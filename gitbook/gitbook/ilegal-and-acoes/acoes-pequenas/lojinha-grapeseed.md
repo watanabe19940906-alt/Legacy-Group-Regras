@@ -1,3 +1,0 @@
-# Lojinha Grapeseed
-
-> Em breve.

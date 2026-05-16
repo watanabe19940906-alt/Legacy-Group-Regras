@@ -1,3 +1,0 @@
-# Madeireira
-
-> Em breve.

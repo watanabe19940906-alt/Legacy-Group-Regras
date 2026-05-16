@@ -1,3 +1,0 @@
-# Fleeca Shopping
-
-> Em breve.

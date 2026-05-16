@@ -1,3 +1,0 @@
-# Auditorio
-
-> Em breve.
