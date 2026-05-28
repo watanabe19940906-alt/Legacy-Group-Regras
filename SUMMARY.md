@@ -7,6 +7,8 @@
   * [Regras do RP](regras-cidade-legacy/regras-do-rp.md)
   * [Programas Externos](regras-cidade-legacy/regras-do-rp-1.md)
   * [Random Deathmatch (RDM)](regras-cidade-legacy/regras-do-rp-2.md)
+  * [Vehicle Deathmatch (VDM)](regras-cidade-legacy/regras-do-rp-3.md)
+  * [Copy of Vehicle Deathmatch (VDM)](regras-cidade-legacy/regras-do-rp-4.md)
   * [PD de Personagem](regras-cidade-legacy/pd-de-personagem.md)
   * [Segundo Slot](regras-cidade-legacy/segundo-slot.md)
   * [Importações](regras-cidade-legacy/importacoes.md)
