@@ -10,7 +10,7 @@ Idade Mínima: A idade mínima para fazer parte da cidade é **16 anos**. Menore
 
 O desconhecimento das regras não isenta o jogador de punições.
 
-
+***
 
 ## Cláusula de Interpretação da Staff
 
@@ -37,7 +37,7 @@ Personagens secundários **não podem** compartilhar itens, dinheiro, informaç�
 É proibido ter personagem na polícia e outro no ilegal.
 {% endhint %}
 
-
+***
 
 ## Metagaming
 
@@ -55,7 +55,7 @@ Jogadores que forem identificados praticando Metagaming estarão sujeitos a pena
 
 A equipe administrativa analisará cada situação individualmente, levando em conta a gravidade da infração e a reincidência do jogador, para definir a punição
 
-
+***
 
 ## <sub>RDM (Random Deathmatch)</sub>
 
@@ -71,7 +71,7 @@ Proibido iniciar ações contra outros players sem um motivo realmente plausíve
 
 &#x20;É expressamente proibido iniciar confrontos em quaisquer zonas seguras (hospital, delegacia, spawn) são protegidas. Tudo sempre será analisado e julgado. Caso alguém provoque alguma situação e leve a mesma para zona seguro, o indivíduo que a levou para a safe que será punido.
 
-
+***
 
 ## VDM (Vehicle Deathmatch)
 
@@ -91,7 +91,7 @@ Proibido jogar o veículo por cima de outro para causar capotamentos e colisões
 
 Proibido usar veículos para ferir ou matar pessoas em Zonas Seguras.
 
-
+***
 
 ## **Combat Logging (CL)**
 
@@ -116,7 +116,7 @@ Em caso de crash:
 * Reportar no Discord com vídeo quando solicitado.
 * Enviar imediatamente a página do crash, aparecendo data e horário em nosso discord.
 
-
+***
 
 ## Force RP
 
@@ -131,7 +131,7 @@ As interações devem ocorrer de maneira orgânica, por meio de abordagens coere
 espontâneas, sem invadir ou manipular situações já em andamento.
 {% endhint %}
 
-###
+***
 
 ## Power Gaming
 
@@ -149,7 +149,7 @@ Permitido o uso de rampas, saltos, escadarias em caso de fuga.
 
 Considere sempre o bom senso!
 
-
+***
 
 ## Amor a Vida
 
@@ -171,7 +171,7 @@ Proibido utilizar sistemas de reanimação como ferramenta para anular consequê
 A falta de amor à vida pode resultar em PD autorizado.
 {% endhint %}
 
-### &#x20;<a href="#anti-rp" id="anti-rp"></a>
+***
 
 ## Anti RP <a href="#anti-rp" id="anti-rp"></a>
 
@@ -183,7 +183,7 @@ Anti Roleplay caracteriza-se por qualquer conduta que comprometa a coerência, c
 Proibido quebra de imersão proposital. Corrupção na polícia ou hospital é **proibida.**
 {% endhint %}
 
-### &#x20;<a href="#flaming" id="flaming"></a>
+***
 
 ## Flaming <a href="#flaming" id="flaming"></a>
 
@@ -195,7 +195,7 @@ Proibido uso de linguagem abusiva, ofensiva ou discriminatória; Proibido ameaç
 
 O envolvimento em comportamentos dessa natureza poderá resultar em sanções administrativas, que variam desde advertências formais até banimento permanente. A decisão será tomada pela administração após análise do contexto, da gravidade da ação e do histórico do jogador.
 
-### &#x20;<a href="#cop-baiting" id="cop-baiting"></a>
+***
 
 ## Cop Baiting <a href="#cop-baiting" id="cop-baiting"></a>
 
@@ -205,7 +205,7 @@ O envolvimento em comportamentos dessa natureza poderá resultar em sanções ad
 Proibido criar chamados falsos. Proibido atrair polícia para porta de favela ou qg’s.
 {% endhint %}
 
-### &#x20;<a href="#dark-rp" id="dark-rp"></a>
+***
 
 ## Dark RP <a href="#dark-rp" id="dark-rp"></a>
 
@@ -229,7 +229,7 @@ Proibido qualquer tipo de assédio, inclusive forçar animações sem consentime
 Palavras de baixo calão **não configuram Dark RP**, desde que não sejam ofensivas ou discriminatórias.
 {% endhint %}
 
-### &#x20;<a href="#permadeath" id="permadeath"></a>
+***
 
 ## PermaDeath <a href="#permadeath" id="permadeath"></a>
 
@@ -240,7 +240,7 @@ A saída de uma facção sem a aplicação de PD somente será permitida mediant
 autorização expressa da liderança máxima responsável
 {% endhint %}
 
-###
+***
 
 ## PD Individual de Personagem
 
@@ -251,6 +251,8 @@ autorização expressa da liderança máxima responsável
 * Determinação direta da administração, baseada em análise de conduta e histórico do jogador.
 
 
+
+***
 
 ## **Criação de Novo Personagem:**
 

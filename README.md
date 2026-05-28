@@ -19,15 +19,15 @@
 
 ## Organizações Legais
 
-* [Manual de Conduta Policial](regras-das-organizacoes-legais/manual-de-conduta-policial/)
-  * [Regulamento](regras-das-organizacoes-legais/manual-de-conduta-policial/regulamento.md)
-  * [Procedimentos Operacionais](regras-das-organizacoes-legais/manual-de-conduta-policial/procedimentos-operacionais/)
-    * [Procedimento de Abordagem](regras-das-organizacoes-legais/manual-de-conduta-policial/procedimentos-operacionais/procedimento-de-abordagem.md)
-    * [Procedimento de Acompanhamento](regras-das-organizacoes-legais/manual-de-conduta-policial/procedimentos-operacionais/procedimento-de-acompanhamento.md)
-    * [Procedimento Penal](regras-das-organizacoes-legais/manual-de-conduta-policial/procedimentos-operacionais/procedimento-penal.md)
-    * [Comboio de Perímetro](regras-das-organizacoes-legais/manual-de-conduta-policial/procedimentos-operacionais/comboio-de-perimetro.md)
+* [Manual de Conduta Policial](manual-de-conduta-policial/)
+  * [Regulamento](manual-de-conduta-policial/regulamento.md)
+  * [Procedimentos Operacionais](manual-de-conduta-policial/procedimentos-operacionais/)
+    * [Procedimento de Abordagem](manual-de-conduta-policial/procedimentos-operacionais/procedimento-de-abordagem.md)
+    * [Procedimento de Acompanhamento](manual-de-conduta-policial/procedimentos-operacionais/procedimento-de-acompanhamento.md)
+    * [Procedimento Penal](manual-de-conduta-policial/procedimentos-operacionais/procedimento-penal.md)
+    * [Comboio de Perímetro](manual-de-conduta-policial/procedimentos-operacionais/comboio-de-perimetro.md)
 * [Mecânicas](regras-das-organizacoes-legais/mecanicas.md)
-* [Hospitais](regras-das-organizacoes-legais/hospitais.md)
+* [Hospitais](hospitais.md)
 * [Restaurantes](regras-das-organizacoes-legais/restaurantes.md)
 * [Setor Jurídico](regras-das-organizacoes-legais/setor-juridico/)
   * [Constituição Federal](regras-das-organizacoes-legais/setor-juridico/constituicao-federal.md)
