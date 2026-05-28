@@ -1,4 +1,4 @@
-# 🏥Regra do Hospital
+# 🏥 Regra do Hospital
 
 ## **Regras do Hospital e Atendimento Médico**
 
