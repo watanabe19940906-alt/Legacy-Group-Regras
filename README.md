@@ -1,12 +1,79 @@
-[README.md](https://github.com/user-attachments/files/27841512/README.md)
-# Bem-vindos!
+# Summary
 
-Bem-vindo ao nosso servidor, um universo onde cada escolha define o caminho do seu personagem. Aqui, não existem histórias prontas — são suas decisões, ações e relações que constroem o enredo da cidade.
+* [Início](gitbook.md)
+* [Nossa Comunidade](nossa-comunidade.md)
+* [Denúncias e Punições](denuncias-e-punicoes.md)
+* [Screenshare](screenshare.md)
 
-Cada canto tem vida. Os hospitais não cuidam apenas dos ferimentos, mas também renovam esperanças. As mecânicas são o berço da criatividade, onde mecânicos transformam carros em verdadeiras obras de arte. Nas ruas, o Departamento de Polícia garante a ordem, enquanto outros preferem viver à margem da lei, buscando poder, influência e emoção a cada movimento.
+## Regras da Cidade
 
-E para quem respira competição, o servidor coloca à prova suas habilidades em torneios e eventos que realmente testam o talento e a estratégia de cada jogador.
+* [Regras Gerais](gitbook/regrasdacidadforever/regras-gerais/)
+  * [Regras do RP](gitbook/regrasdacidadforever/regras-gerais/regras-do-rp.md)
+  * [PD de Personagem](gitbook/regrasdacidadforever/regras-gerais/pd-de-personagem.md)
+  * [Segundo Slot](gitbook/regrasdacidadforever/regras-gerais/segundo-slot.md)
+  * [Importações](gitbook/regrasdacidadforever/regras-gerais/importacoes.md)
+* [Roleplay Kids](gitbook/regrasdacidadforever/roleplay-kids/)
+  * [Regras da Adição de PEDs](gitbook/regrasdacidadforever/roleplay-kids/regras-da-adicao-de-peds.md)
+  * [Regras de Gravidez](gitbook/regrasdacidadforever/roleplay-kids/regras-de-gravidez.md)
+  * [Regras do Menor Aprendiz](gitbook/regrasdacidadforever/roleplay-kids/regras-do-menor-aprendiz.md)
 
-Mais do que um servidor, é uma experiência imersiva e única, onde tudo tem consequência. Aqui, cada história é singular, cada personagem é uma alma em busca de propósito — e o seu destino começa agora.
+## Organizações Legais
 
-***Viva intensamente. Construa sua jornada. Sinta a essência!***
+* [Manual de Conduta Policial](regras-das-organizacoes-legais/manual-de-conduta-policial/)
+  * [Regulamento](regras-das-organizacoes-legais/manual-de-conduta-policial/regulamento.md)
+  * [Procedimentos Operacionais](regras-das-organizacoes-legais/manual-de-conduta-policial/procedimentos-operacionais/)
+    * [Procedimento de Abordagem](regras-das-organizacoes-legais/manual-de-conduta-policial/procedimentos-operacionais/procedimento-de-abordagem.md)
+    * [Procedimento de Acompanhamento](regras-das-organizacoes-legais/manual-de-conduta-policial/procedimentos-operacionais/procedimento-de-acompanhamento.md)
+    * [Procedimento Penal](regras-das-organizacoes-legais/manual-de-conduta-policial/procedimentos-operacionais/procedimento-penal.md)
+    * [Comboio de Perímetro](regras-das-organizacoes-legais/manual-de-conduta-policial/procedimentos-operacionais/comboio-de-perimetro.md)
+* [Mecânicas](regras-das-organizacoes-legais/mecanicas.md)
+* [Hospitais](regras-das-organizacoes-legais/hospitais.md)
+* [Restaurantes](regras-das-organizacoes-legais/restaurantes.md)
+* [Setor Jurídico](regras-das-organizacoes-legais/setor-juridico/)
+  * [Constituição Federal](regras-das-organizacoes-legais/setor-juridico/constituicao-federal.md)
+  * [E.C.A. - Estatuto da Criança e do Adolescente](regras-das-organizacoes-legais/setor-juridico/eca-estatuto-da-crianca-e-do-adolescente.md)
+
+## Ilegal & Ações
+
+* [Regras do Ilegal](gitbook/ilegal-and-acoes/regras-do-ilegal.md)
+* [Ações Blipadas](gitbook/ilegal-and-acoes/acoes-blipadas.md)
+* [Ações Pequenas](gitbook/ilegal-and-acoes/acoes-pequenas/)
+  * [Aeroporto Trevor](gitbook/ilegal-and-acoes/acoes-pequenas/aeroporto-trevor.md)
+  * [Ammunation Porto](gitbook/ilegal-and-acoes/acoes-pequenas/ammunation-porto.md)
+  * [Ammunation Praça](gitbook/ilegal-and-acoes/acoes-pequenas/ammunation-praca.md)
+  * [Antena](gitbook/ilegal-and-acoes/acoes-pequenas/antena.md)
+  * [Auditório](gitbook/ilegal-and-acoes/acoes-pequenas/auditorio.md)
+  * [Bebidas Samir](gitbook/ilegal-and-acoes/acoes-pequenas/bebidas-samir.md)
+  * [Comedy](gitbook/ilegal-and-acoes/acoes-pequenas/comedy.md)
+  * [Fast Food](gitbook/ilegal-and-acoes/acoes-pequenas/fast-food.md)
+  * [Lojinha Banco Central](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-banco-central.md)
+  * [Lojinha China](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-china.md)
+  * [Lojinha Grapeseed](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-grapeseed.md)
+  * [Lojinha Groove](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-groove.md)
+  * [Lojinha Praia](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-praia.md)
+  * [Lojinha Prefeitura](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-prefeitura.md)
+  * [Lojinha Barragem](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-barragem.md)
+  * [McDonald's](gitbook/ilegal-and-acoes/acoes-pequenas/mcdonalds.md)
+  * [Planet](gitbook/ilegal-and-acoes/acoes-pequenas/planet.md)
+* [Ações Médias](gitbook/ilegal-and-acoes/acoes-medias/)
+  * [Açougue](gitbook/ilegal-and-acoes/acoes-medias/acougue.md)
+  * [Observatório](gitbook/ilegal-and-acoes/acoes-medias/observatorio.md)
+  * [Container](gitbook/ilegal-and-acoes/acoes-medias/container.md)
+  * [Estacionamento Marrom](gitbook/ilegal-and-acoes/acoes-medias/estacionamento-marrom.md)
+  * [Fleeca Chaves](gitbook/ilegal-and-acoes/acoes-medias/fleeca-chaves.md)
+  * [Fleeca Life Invader](gitbook/ilegal-and-acoes/acoes-medias/fleeca-life-invader.md)
+  * [Fleeca Praia](gitbook/ilegal-and-acoes/acoes-medias/fleeca-praia.md)
+  * [Fleeca Rota 68](gitbook/ilegal-and-acoes/acoes-medias/fleeca-rota-68.md)
+  * [Fleeca Shopping](gitbook/ilegal-and-acoes/acoes-medias/fleeca-shopping.md)
+  * [Galinheiro](gitbook/ilegal-and-acoes/acoes-medias/galinheiro.md)
+  * [Hotel Rosa](gitbook/ilegal-and-acoes/acoes-medias/hotel-rosa.md)
+  * [Joalheria](gitbook/ilegal-and-acoes/acoes-medias/joalheria.md)
+  * [Mergulhador](gitbook/ilegal-and-acoes/acoes-medias/mergulhador.md)
+* [Ações Grandes](gitbook/ilegal-and-acoes/acoes-grandes/)
+  * [Banco Central](gitbook/ilegal-and-acoes/acoes-grandes/banco-central.md)
+  * [Banco Paleto](gitbook/ilegal-and-acoes/acoes-grandes/banco-paleto.md)
+  * [Forte Zancudo](gitbook/ilegal-and-acoes/acoes-grandes/forte-zancudo.md)
+  * [Madeireira](gitbook/ilegal-and-acoes/acoes-grandes/madeireira.md)
+  * [Nióbio](gitbook/ilegal-and-acoes/acoes-grandes/niobio.md)
+* [Air Drop](gitbook/ilegal-and-acoes/air-drop.md)
+* [Sequestros e Negociações](gitbook/ilegal-and-acoes/sequestros-e-negociacoes.md)
