@@ -1,7 +1,7 @@
 # Summary
 
 * [Início](gitbook.md)
-* [Nossa Comunidade](nossa-comunidade.md)
+* [Nossa Comunidade](/broken/pages/xGkRYVhkAfFnhstJOz6k)
 * [Denúncias e Punições](denuncias-e-punicoes.md)
 * [Screenshare](screenshare.md)
 
