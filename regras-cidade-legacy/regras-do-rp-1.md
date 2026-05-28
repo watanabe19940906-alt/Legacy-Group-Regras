@@ -1,7 +1,6 @@
 # Programas Externos
 
-> 1. \
->    É extremamente proibido o uso e apoio a aplicativos externos para obter vantagem na cidade (cheat), exemplos:
+> 1. É extremamente proibido o uso e apoio a aplicativos externos para obter vantagem na cidade (cheat), exemplos:
 >
 > * Utilização de Programas Externos (Cheat)
 > * Bypass, Negar Tela (Screen Share)
