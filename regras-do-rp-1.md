@@ -111,3 +111,35 @@ spawn, garagens centrais, pier, praça e restaurantes.
 ## 22. <mark style="color:red;">Alianças em ações de rua são proibidas</mark> (exceto ações fechadas sob regras).
 
 ## 23. Uso de uniforme da própria facção em cobranças de pista e ações blipadas é obrigatório.
+
+## 24. Após crash, o jogador tem até 5 minutos para retornar.
+
+{% hint style="warning" icon="message-exclamation" %}
+Crashes forçados são considerados Combat Logging.
+{% endhint %}
+
+> É obrigatório registrar o crash com prova no canal apropriado.
+
+## 25. Lives externas não podem ser usadas para denúncias se o denunciante não estiver envolvido.
+
+## 26. Dark ou Trash RP em live gera punição solidária se houver conivência.
+
+{% hint style="danger" icon="circle-x" %}
+Aliciar jogadores para outros servidores é concorrência desleal e resulta em banimento permanente.
+{% endhint %}
+
+## 27. Pets são proibidos em ações blipadas.
+
+## 28. Proibido questionar punição, staff ou regras dentro da cidade.
+
+{% hint style="danger" icon="circle-x" %}
+Proibido provocar staff e tratar com desrespeito staff dentro ou fora do jogo (Julgado por CEO).
+{% endhint %}
+
+## 29. Proibição de fake reports / denúncias maliciosas.
+
+## **30. Proibido “fake police”&#x20;**<mark style="color:red;">**(se passar por policial)**</mark>
+
+É proibido fingir ser policial, agente da lei ou qualquer autoridade pública para enganar, intimidar, obter vantagens, acesso, informações ou influência sobre outras pessoas.
+
+Liberado apenas em situações em que a conduta esteja vinculada a **investigação legítima, inteligência, infiltração autorizada ou ação estratégica** (como não estar mais setado em ilegal e realizar todo o processo para adentrar a polícia).
