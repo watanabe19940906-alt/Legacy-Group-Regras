@@ -5,6 +5,8 @@
 * [Bem-vindos!](gitbook.md)
 * [Regras Cidade Legacy](regras-cidade-legacy/README.md)
   * [Regras do RP](regras-cidade-legacy/regras-do-rp.md)
+  * [Programas Externos](regras-cidade-legacy/regras-do-rp-1.md)
+  * [Random Deathmatch (RDM)](regras-cidade-legacy/regras-do-rp-2.md)
   * [PD de Personagem](regras-cidade-legacy/pd-de-personagem.md)
   * [Segundo Slot](regras-cidade-legacy/segundo-slot.md)
   * [Importações](regras-cidade-legacy/importacoes.md)
