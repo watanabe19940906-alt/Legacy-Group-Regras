@@ -26,18 +26,11 @@
 > * Usar animações em corpos desmaiados ou vivos como: /e varrer, etc.
 > * Postar no instagram do jogo a foto do personagem de algum jogador morto com intenções de provocar ou zoar.
 
-<details>
+{% hint style="danger" %}
+Algumas situações onde o dark não se encaixa são passíveis de punições de diversos tipos, portanto não ser dark não significa que são permitidas.
+{% endhint %}
 
-<summary>Algumas situações onde o dark não se encaixa são passíveis de punições de diversos tipos, portanto não ser dark não significa que são permitidas.</summary>
+{% hint style="danger" %}
+Os exemplos acima não são os únicos motivos, existem vários outros que se encaixam ou não dentro de DARK RP.
+{% endhint %}
 
-
-
-</details>
-
-<details>
-
-<summary>Os exemplos acima não são os únicos motivos, existem vários outros que se encaixam ou não dentro de DARK RP.</summary>
-
-
-
-</details>
