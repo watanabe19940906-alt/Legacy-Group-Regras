@@ -140,6 +140,6 @@ Proibido provocar staff e tratar com desrespeito staff dentro ou fora do jogo (J
 
 ## **30. Proibido “fake police”&#x20;**<mark style="color:red;">**(se passar por policial)**</mark>
 
-É proibido fingir ser policial, agente da lei ou qualquer autoridade pública para enganar, intimidar, obter vantagens, acesso, informações ou influência sobre outras pessoas.
+> É proibido fingir ser policial, agente da lei ou qualquer autoridade pública para enganar, intimidar, obter vantagens, acesso, informações ou influência sobre outras pessoas.
 
-Liberado apenas em situações em que a conduta esteja vinculada a **investigação legítima, inteligência, infiltração autorizada ou ação estratégica** (como não estar mais setado em ilegal e realizar todo o processo para adentrar a polícia).
+> Liberado apenas em situações em que a conduta esteja vinculada a **investigação legítima, inteligência, infiltração autorizada ou ação estratégica** (como não estar mais setado em ilegal e realizar todo o processo para adentrar a polícia).
