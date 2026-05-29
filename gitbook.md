@@ -2,8 +2,11 @@
 description: >-
   Dê vida ao seu personagem na Legacy Roleplay, uma cidade planejada para
   oferecer o ápice da imersão e do realismo.
-cover: .gitbook/assets/Legacy - GIF.gif
+cover:
+  light: .gitbook/assets/Legacy - GIF.gif
+  dark: .gitbook/assets/Legacy - GIF (2).gif
 coverY: 0
+coverHeight: 220
 layout:
   width: default
   cover:
