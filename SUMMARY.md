@@ -47,7 +47,6 @@
     * [Planet](ilegal-e-acoes/acoes-pequenas/planet.md)
 * [👮‍♀️ Regras da Polícia](manual-de-conduta-policial/README.md)
   * [Procedimentos Operacionais](manual-de-conduta-policial/procedimentos-operacionais/README.md)
-    * [Comboio de Perímetro](manual-de-conduta-policial/procedimentos-operacionais/comboio-de-perimetro.md)
     * [Procedimento de Acompanhamento](manual-de-conduta-policial/procedimentos-operacionais/procedimento-de-acompanhamento.md)
     * [Procedimento Penal](manual-de-conduta-policial/procedimentos-operacionais/procedimento-penal.md)
 * [🏠 Safezones](restaurantes.md)

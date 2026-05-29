@@ -25,7 +25,7 @@
     * [Procedimento de Abordagem](/broken/pages/cd3ce4b21ebdc2516db2f0be0aad20213804f309)
     * [Procedimento de Acompanhamento](manual-de-conduta-policial/procedimentos-operacionais/procedimento-de-acompanhamento.md)
     * [Procedimento Penal](manual-de-conduta-policial/procedimentos-operacionais/procedimento-penal.md)
-    * [Comboio de Perímetro](manual-de-conduta-policial/procedimentos-operacionais/comboio-de-perimetro.md)
+    * [Comboio de Perímetro](/broken/pages/737c5b29a9096ff26eca1342b3d476d2c3e6dfdb)
 * [Mecânicas](regras-das-organizacoes-legais/mecanicas.md)
 * [Hospitais](hospitais.md)
 * [Restaurantes](regras-das-organizacoes-legais/restaurantes.md)
