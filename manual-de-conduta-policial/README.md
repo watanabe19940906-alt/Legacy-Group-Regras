@@ -39,16 +39,18 @@ Obrigatório RP prévio antes de qualquer ação policial (como prisões). <mark
 
 No caso de capotamento, caso o veículo fique de cabeça para baixo\
 e o indivíduo se recuse a sair, tente iniciar fuga a pé ou realizar uma\
-troca de veículo, é permitido o uso do TASER, desde que o veículo\
+troca de veículo, <mark style="background-color:$warning;">é permitido o uso do TASER</mark>, desde que o veículo\
 esteja trancado.
 
 Em situações de troca de veículo durante fuga, é liberado o Código\
 3 nos pneus do veículo, independentemente da QRU (tráfico de\
 drogas, caixa registradora, corrida ilegal ou ATM).
 
+{% hint style="success" %}
 Em caso de capotamento do veículo envolvido na fuga, caso o teto\
 do carro toque o chão DUAS vezes, é permitido o uso do Código 3\
 nos pneus, exclusivamente em QRU de tráfico de drogas.
+{% endhint %}
 
 ## Tipos de Ação Permitidos
 
