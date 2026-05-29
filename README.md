@@ -20,9 +20,9 @@
 ## Organizações Legais
 
 * [Manual de Conduta Policial](manual-de-conduta-policial/)
-  * [Regulamento](manual-de-conduta-policial/regulamento.md)
+  * [Regulamento](/broken/pages/320af7f1be840dd76d63aa191dd4ea5f8faf95df)
   * [Procedimentos Operacionais](manual-de-conduta-policial/procedimentos-operacionais/)
-    * [Procedimento de Abordagem](manual-de-conduta-policial/procedimentos-operacionais/procedimento-de-abordagem.md)
+    * [Procedimento de Abordagem](/broken/pages/cd3ce4b21ebdc2516db2f0be0aad20213804f309)
     * [Procedimento de Acompanhamento](manual-de-conduta-policial/procedimentos-operacionais/procedimento-de-acompanhamento.md)
     * [Procedimento Penal](manual-de-conduta-policial/procedimentos-operacionais/procedimento-penal.md)
     * [Comboio de Perímetro](manual-de-conduta-policial/procedimentos-operacionais/comboio-de-perimetro.md)

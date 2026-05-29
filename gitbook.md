@@ -2,6 +2,29 @@
 description: >-
   Dê vida ao seu personagem na Legacy Roleplay, uma cidade planejada para
   oferecer o ápice da imersão e do realismo.
+cover: .gitbook/assets/Legacy - GIF.gif
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 👑 Legacy | Livro de Regras
