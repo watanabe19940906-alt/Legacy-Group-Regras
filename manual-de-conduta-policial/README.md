@@ -67,14 +67,14 @@ A abordagem policial é um procedimento sensível que requer atenção, cautela 
 
 ## **Uso progressivo da força**
 
-<div align="left" data-with-frame="true"><figure><img src="../.gitbook/assets/Uso Progressivo da Força Policial.png" alt="" width="513"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/Uso Progressivo da Força Policial.png" alt="" width="513"><figcaption></figcaption></figure></div>
 
-* [x] **Presença Policial:** Muitas vezes, só a chegada da viatura ou a postura firme já são suficientes para controlar a situação.
-* [x] **Verbalização:** Ordens claras e objetivas: "pare", "afaste-se", "mostre as mãos".
-* [x] **Contenção Física Leve:** Segurar no braço, conter movimento sem causar lesões.
-* [x] **Instrumentos de Menor Potencial Ofensivo:** Algemas, taser.
-* [x] **Força Física Moderada:** Técnicas de imobilização para neutralizar uma ameaça.
-* [x] **Força Letal:** Só em casos extremos, quando houver risco real e imediato à vida.
+* **Presença Policial:** Muitas vezes, só a chegada da viatura ou a postura firme já são suficientes para controlar a situação.
+* **Verbalização:** Ordens claras e objetivas: "pare", "afaste-se", "mostre as mãos".
+* **Contenção Física Leve:** Segurar no braço, conter movimento sem causar lesões.
+* **Instrumentos de Menor Potencial Ofensivo:** Algemas, taser.
+* **Força Física Moderada:** Técnicas de imobilização para neutralizar uma ameaça.
+* **Força Letal:** Só em casos extremos, quando houver risco real e imediato à vida.
 
 ## Revista
 
