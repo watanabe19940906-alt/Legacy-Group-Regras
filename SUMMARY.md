@@ -45,7 +45,7 @@
     * [Lojinha Prefeitura](ilegal-e-acoes/acoes-pequenas/lojinha-prefeitura.md)
     * [Mcdonalds](ilegal-e-acoes/acoes-pequenas/mcdonalds.md)
     * [Planet](ilegal-e-acoes/acoes-pequenas/planet.md)
-* [Manual de Conduta Policial](manual-de-conduta-policial/README.md)
+* [👮‍♀️ Regras da Polícia](manual-de-conduta-policial/README.md)
   * [Regulamento](manual-de-conduta-policial/regulamento.md)
   * [Procedimentos Operacionais](manual-de-conduta-policial/procedimentos-operacionais/README.md)
     * [Comboio de Perímetro](manual-de-conduta-policial/procedimentos-operacionais/comboio-de-perimetro.md)

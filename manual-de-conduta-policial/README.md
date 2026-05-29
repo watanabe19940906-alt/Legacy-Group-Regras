@@ -1,4 +1,16 @@
-# Manual de Conduta Policial
+# 👮‍♀️ Regras da Polícia
+
+## Tipos de Ação Permitidos
+
+> As ações entre facções criminosas e forças policiais podem ocorrer nas seguintes situações:
+
+* Pacificação Oficial: somente mediante autorização do Jurídico e da SSP, obrigatoriamente acompanhada de provas;
+* <mark style="background-color:$warning;">**Incursão Imediata:**</mark> quando um indivíduo em fuga entra em sua própria Favela ou QG;
+* <mark style="background-color:$warning;">**Incursão Imediata:**</mark> quando houver disparos realizados de dentro do território (Favela ou QG) para fora.
+
+
+
+
 
 O **Departamento de Polícia** é a instituição responsável por garantir a ordem pública, proteger os cidadãos e assegurar que as leis da cidade sejam cumpridas. Seu funcionamento é baseado em princípios de disciplina, hierarquia, legalidade e ética, que orientam a conduta de todos os seus integrantes.
 

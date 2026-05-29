@@ -4,25 +4,25 @@ description: Tabela de punições
 
 # 🧨Punições
 
-* Abuso de bug: _5 dias banimento_&#x20;
-* Anti amor à vida _7 dias banimento_&#x20;
-* Anti-roleplay (quebra de roleplay / quebra de imersão) _7 dias banimento_&#x20;
-* Bate-bate _7 dias de banimento na cidade_
-* Combate Login (CL) _7 dias banimento_
-* Cop-bait _5 dias banimento_
-* Flaming _7 dias banimento_
-* Forçar-rp _7 dias banimento_
-* Interferência em ação _5 dias banimento_&#x20;
-* Lembrar de ação _7 dias banimento_&#x20;
-* Metagaming _7 dias banimento_&#x20;
-* Powergaming _3 dias banimento_&#x20;
-* Quebra de regra de ações _3 dias banimento_
-* Quebra de regra de safezone _4 dias banimento_&#x20;
-* Rdm _8 dias banimento_
-* Retornar para uma ação _8 dias banimento_&#x20;
-* Trash rp _10 dias banimento_
-* Vdm _8 dias banimento_
-* Zaralho _8 dias banimento_
+* Abuso de bug: 5 dias banimento&#x20;
+* Anti amor à vida: 7 dias banimento&#x20;
+* Anti-roleplay (quebra de roleplay / quebra de imersão): 7 dias banimento&#x20;
+* Bate-bate: 7 dias de banimento na cidade
+* Combate Login (CL): 7 dias banimento
+* Cop-bait: 5 dias banimento
+* Flaming: 7 dias banimento
+* Forçar-rp: 7 dias banimento
+* Interferência em ação: 5 dias banimento&#x20;
+* Lembrar de ação: 7 dias banimento&#x20;
+* Metagaming: 7 dias banimento&#x20;
+* Powergaming: 3 dias banimento&#x20;
+* Quebra de regra de ações: 3 dias banimento
+* Quebra de regra de safezone: 4 dias banimento&#x20;
+* Rdm: 8 dias banimento
+* Retornar para uma ação: 8 dias banimento&#x20;
+* Trash rp: 10 dias banimento
+* Vdm: 8 dias banimento
+* Zaralho: 8 dias banimento
 * **Punições passíveis de banimento permanente:** Dark e hack
 
 Com o objetivo de manter a organização e a coerência nas aplicações disciplinares, fica estabelecido o seguinte critério para **reincidência**:
