@@ -37,8 +37,6 @@ Personagens secundários **não podem** compartilhar itens, dinheiro, informaç�
 É proibido ter personagem na polícia e outro no ilegal.
 {% endhint %}
 
-***
-
 ## Metagaming
 
 {% hint style="info" %}
@@ -55,8 +53,6 @@ Jogadores que forem identificados praticando Metagaming estarão sujeitos a pena
 
 A equipe administrativa analisará cada situação individualmente, levando em conta a gravidade da infração e a reincidência do jogador, para definir a punição
 
-***
-
 ## <sub>RDM (Random Deathmatch)</sub>
 
 Matar ou atacar outro jogador sem motivo plausível dentro do RP.
@@ -70,8 +66,6 @@ Atirar ou matar sem diálogo ou escalonamento é RDM. Toda ação deve possuir u
 Proibido iniciar ações contra outros players sem um motivo realmente plausível dentro do RP. Toda a intenção deve ser coerente. Antes de quaisquer confrontos, é necessário que se tenha uma narrativa, seja uma provocação, intimidação ou qualquer outra coisa que venha a justificar.
 
 &#x20;É expressamente proibido iniciar confrontos em quaisquer zonas seguras (hospital, delegacia, spawn) são protegidas. Tudo sempre será analisado e julgado. Caso alguém provoque alguma situação e leve a mesma para zona seguro, o indivíduo que a levou para a safe que será punido.
-
-***
 
 ## VDM (Vehicle Deathmatch)
 
@@ -90,8 +84,6 @@ Proibido colidir propositalmente contra outro veículo, utilizando e aplicando �
 Proibido jogar o veículo por cima de outro para causar capotamentos e colisões.
 
 Proibido usar veículos para ferir ou matar pessoas em Zonas Seguras.
-
-***
 
 ## **Combat Logging (CL)**
 
@@ -116,8 +108,6 @@ Em caso de crash:
 * Reportar no Discord com vídeo quando solicitado.
 * Enviar imediatamente a página do crash, aparecendo data e horário em nosso discord.
 
-***
-
 ## Force RP
 
 > Considera-se Force RP a criação intencional de cenários artificiais ou sem necessidade, cujo único propósito seja provocar confrontos armados, perseguições ou mortes, sem que exista um contexto claro dentro da história do personagem.
@@ -130,8 +120,6 @@ O direito de interpretação e desenvolvimento de um personagem deve sempre resp
 As interações devem ocorrer de maneira orgânica, por meio de abordagens coerentes e\
 espontâneas, sem invadir ou manipular situações já em andamento.
 {% endhint %}
-
-***
 
 ## Power Gaming
 
@@ -148,8 +136,6 @@ Permitido o uso de rampas, saltos, escadarias em caso de fuga.
 {% endhint %}
 
 Considere sempre o bom senso!
-
-***
 
 ## Amor a Vida
 
@@ -171,8 +157,6 @@ Proibido utilizar sistemas de reanimação como ferramenta para anular consequê
 A falta de amor à vida pode resultar em PD autorizado.
 {% endhint %}
 
-***
-
 ## Anti RP <a href="#anti-rp" id="anti-rp"></a>
 
 Anti Roleplay caracteriza-se por qualquer conduta que comprometa a coerência, continuidade ou credibilidade do personagem e da história em desenvolvimento.
@@ -182,8 +166,6 @@ Anti Roleplay caracteriza-se por qualquer conduta que comprometa a coerência, c
 {% hint style="danger" icon="circle-x" %}
 Proibido quebra de imersão proposital. Corrupção na polícia ou hospital é **proibida.**
 {% endhint %}
-
-***
 
 ## Flaming <a href="#flaming" id="flaming"></a>
 
@@ -195,8 +177,6 @@ Proibido uso de linguagem abusiva, ofensiva ou discriminatória; Proibido ameaç
 
 O envolvimento em comportamentos dessa natureza poderá resultar em sanções administrativas, que variam desde advertências formais até banimento permanente. A decisão será tomada pela administração após análise do contexto, da gravidade da ação e do histórico do jogador.
 
-***
-
 ## Cop Baiting <a href="#cop-baiting" id="cop-baiting"></a>
 
 > É qualquer ação planejada com o intuito de induzir, enganar ou atrair policiais para situações falsas ou manipuladas, com o objetivo de criar emboscadas, obter vantagem indevida ou prejudicar outros jogadores.
@@ -204,8 +184,6 @@ O envolvimento em comportamentos dessa natureza poderá resultar em sanções ad
 {% hint style="danger" icon="circle-x" %}
 Proibido criar chamados falsos. Proibido atrair polícia para porta de favela ou qg’s.
 {% endhint %}
-
-***
 
 ## Dark RP <a href="#dark-rp" id="dark-rp"></a>
 
@@ -229,8 +207,6 @@ Proibido qualquer tipo de assédio, inclusive forçar animações sem consentime
 Palavras de baixo calão **não configuram Dark RP**, desde que não sejam ofensivas ou discriminatórias.
 {% endhint %}
 
-***
-
 ## PermaDeath <a href="#permadeath" id="permadeath"></a>
 
 > Após a aplicação do PD de organização, o jogador deverá desconsiderar integralmente qualquer conhecimento, vínculos, acontecimentos ou informações relacionadas à facção anterior
@@ -240,8 +216,6 @@ A saída de uma facção sem a aplicação de PD somente será permitida mediant
 autorização expressa da liderança máxima responsável
 {% endhint %}
 
-***
-
 ## PD Individual de Personagem
 
 > O encerramento definitivo de um personagem poderá ser determinado em situações de extrema gravidade, incluindo, mas não se limitando a:
@@ -249,10 +223,6 @@ autorização expressa da liderança máxima responsável
 * Desrespeito severo ao princípio de preservação da vida do personagem;
 * Violações graves ou recorrentes das regras do servidor;
 * Determinação direta da administração, baseada em análise de conduta e histórico do jogador.
-
-
-
-***
 
 ## **Criação de Novo Personagem:**
 
