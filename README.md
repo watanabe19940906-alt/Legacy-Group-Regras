@@ -19,12 +19,12 @@
 
 ## Organizações Legais
 
-* [Manual de Conduta Policial](manual-de-conduta-policial/)
+* [Manual de Conduta Policial](manual-de-conduta-policial.md)
   * [Regulamento](/broken/pages/320af7f1be840dd76d63aa191dd4ea5f8faf95df)
-  * [Procedimentos Operacionais](manual-de-conduta-policial/procedimentos-operacionais/)
+  * [Procedimentos Operacionais](/broken/pages/92a09655517cedb6d3481bbe381754332c0665e1)
     * [Procedimento de Abordagem](/broken/pages/cd3ce4b21ebdc2516db2f0be0aad20213804f309)
     * [Procedimento de Acompanhamento](/broken/pages/d384178f44728f844e4265a4a85d0b1273be9fef)
-    * [Procedimento Penal](manual-de-conduta-policial/procedimentos-operacionais/procedimento-penal.md)
+    * [Procedimento Penal](/broken/pages/9f4ea4eee2feeab884ba6aa11b4af026ad45f8fb)
     * [Comboio de Perímetro](/broken/pages/737c5b29a9096ff26eca1342b3d476d2c3e6dfdb)
 * [Mecânicas](regras-das-organizacoes-legais/mecanicas.md)
 * [Hospitais](hospitais.md)
