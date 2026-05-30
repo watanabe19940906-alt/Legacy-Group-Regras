@@ -60,4 +60,5 @@
     * [E.C.A. - Estatuto da Criança e do Adolescente](regras-das-organizacoes-legais/setor-juridico/eca-estatuto-da-crianca-e-do-adolescente.md)
 * [Denúncias e Punições](denuncias-e-punicoes.md)
 * [🧨Punições](denuncias-e-punicoes-1.md)
+* [💰Doações](denuncias-e-punicoes-2.md)
 * [Screenshare](screenshare.md)
