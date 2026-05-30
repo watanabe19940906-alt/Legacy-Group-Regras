@@ -61,4 +61,4 @@
 * [Denúncias e Punições](denuncias-e-punicoes.md)
 * [🧨Punições](denuncias-e-punicoes-1.md)
 * [💰Doações](denuncias-e-punicoes-2.md)
-* [Screenshare](screenshare.md)
+* [👀 Regras de VAR](screenshare.md)
