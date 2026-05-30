@@ -88,16 +88,6 @@ A revista é amparada por lei nos seguintes casos:
 Abordagens em indivíduos do **sexo feminino** devem ser realizadas exclusivamente por policiais femininas. Na ausência destas em QRV, deve-se utilizar o método da caixa ou acionar um medico.
 {% endhint %}
 
-
-
-##
-
-##
-
-##
-
-##
-
 ## Tipos de Ação Permitidos
 
 > As ações entre facções criminosas e forças policiais podem ocorrer nas seguintes situações:
@@ -106,3 +96,62 @@ Abordagens em indivíduos do **sexo feminino** devem ser realizadas exclusivamen
 * <mark style="background-color:$warning;">**Incursão Imediata:**</mark> quando um indivíduo em fuga entra em sua própria Favela ou QG;
 * <mark style="background-color:$warning;">**Incursão Imediata:**</mark> quando houver disparos realizados de dentro do território (Favela ou QG) para fora.
 
+***
+
+## Prisão
+
+{% stepper %}
+{% step %}
+<mark style="background-color:$warning;">**Rendimento do Suspeito:**</mark> Assim que o suspeito estiver rendido e sob controle,\
+é importante algemá-lo para garantir a segurança de todos os envolvidos,\
+incluindo o próprio suspeito. Durante esse processo, é crucial comunicar\
+claramente o motivo pelo qual ele está sendo algemado. Isso não apenas ajuda\
+a evitar mal-entendidos, mas também demonstra transparência e respeito pelos\
+direitos do indivíduo.
+
+
+{% endstep %}
+
+{% step %}
+<mark style="background-color:$warning;">**Voz de Prisão:**</mark> Ao dar a voz de prisão, é essencial ser direto e específico sobre\
+os motivos da prisão. Por exemplo: "Você está sendo preso por tráfico de\
+drogas". Essa declaração clara e concisa informa ao suspeito por que ele está\
+sendo detido e estabelece uma base legal para a prisão.
+{% endstep %}
+
+{% step %}
+<mark style="background-color:$warning;">**Ações Blipadas:**</mark> Todas as ações blipadas que forem feitas, caso seja dado\
+código 4 (vitória da polícia) e os meliantes sejam encaminhados para serem\
+presos, o único artigo possível que vocês colocam é o artigo do roubo, ou\
+seja: Roubo ao Banco Fleeca, Roubo a Nióbio, Roubo ao Banco Central, Roubo a\
+Banco de Paleto, Loja de Departamentos (Ammunation), Roubo ao Comedy.\
+Porém, caso os mesmos desacatem ou desrespeitem um oficial, é possível\
+que se coloquem estes crimes como agravantes. Por isso se atentem,\
+lembrando que todos os oficiais que estavam presentes devem auxiliar nos\
+mesmos.
+
+
+{% endstep %}
+
+{% step %}
+<mark style="background-color:$warning;">**Leitura dos Direitos:**</mark> Após dar a voz de prisão, é obrigatório ler os direitos do\
+individuo, também conhecidos como "Lei de Miranda". Esses direitos\
+geralmente incluem o direito de permanecer em silêncio, o direito de consultar\
+um advogado e o aviso de que qualquer coisa que o suspeito disser pode ser\
+usada contra ele no tribunal. A leitura dos direitos é uma proteção legal\
+importante para garantir que o suspeito esteja ciente de seus direitos\
+constitucionais durante o processo de prisão e interrogatório.
+{% endstep %}
+{% endstepper %}
+
+{% hint style="warning" %}
+Caso algum direito do cidadão seja infringido, o mesmo deve ser liberado imediatamente, apenas tendo os itens apreendidos.
+{% endhint %}
+
+## Redução de Pena
+
+| Redução por                | Porcentagem | Descrição                                              |
+| -------------------------- | ----------- | ------------------------------------------------------ |
+| 🔵 Réu Primário            | 30% ou 50%  | Responde a processo criminal pela primeira vez         |
+| 🟢 Bom comportamento       | 10% até 20% | Julgado pelo oficial que conduziu o detido             |
+| 🟠 Negociação com advogado | 20% até 30% | Redução em razão da presença e negociação com advogado |
