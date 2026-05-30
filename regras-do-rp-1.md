@@ -104,7 +104,7 @@ spawn, garagens centrais, pier, praça e restaurantes.
 
 ## 21. Capacetes são proibidos em ações de rua e blipadas.
 
-## 22. <mark style="color:red;">Alianças em ações de rua são proibidas</mark> (exceto ações fechadas sob regras).
+## 22. <mark style="color:red;">Alianças são proibidas</mark> (exceto ações fechadas sob regras).
 
 ## 23. Uso de uniforme da própria facção em cobranças de pista e ações blipadas é obrigatório.
 
