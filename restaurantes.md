@@ -13,7 +13,6 @@ As **Safezones** são áreas de proteção absoluta, destinadas a preservar a se
 * Departamentos Policiais
 * Mercado Ilegal
 * Jurídico
-* HPI
 
 ***
 
