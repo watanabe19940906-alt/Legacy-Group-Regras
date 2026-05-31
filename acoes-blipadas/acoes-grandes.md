@@ -13,10 +13,9 @@ São permitidos no máximo 3 bandidos fora do Banco Central.
 {% endhint %}
 
 • Armamento: Somente Fuzil.\
-• Negociação: Obrigatório.\
 • Smoke: 4 (negociável)\
 • Shotgun: 2 (negociável)\
-• Refém: Opcional (Máximo 5).
+• Refém: 5 (Máximo).
 
 {% hint style="danger" icon="hexagon-xmark" %}
 É proibido marcar o drop policial.
