@@ -20,7 +20,7 @@
   * [Setor Jurídico](regras-das-organizacoes-legais/setor-juridico/README.md)
     * [Constituição Federal](regras-das-organizacoes-legais/setor-juridico/constituicao-federal.md)
     * [E.C.A. - Estatuto da Criança e do Adolescente](regras-das-organizacoes-legais/setor-juridico/eca-estatuto-da-crianca-e-do-adolescente.md)
-* [Denúncias e Punições](denuncias-e-punicoes.md)
+* [❌ Regras de Denúncias](denuncias-e-punicoes.md)
 * [👀 Regras de VAR](screenshare.md)
 * [🧨Punições](denuncias-e-punicoes-1.md)
 * [💰Doações](denuncias-e-punicoes-2.md)
