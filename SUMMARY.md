@@ -8,7 +8,7 @@
 * [💣 Ações e Perimetros](acoes-blipadas/README.md)
   * [🪂Air Drop](acoes-blipadas/air-drop.md)
   * [🔫 Ações Grandes](acoes-blipadas/acoes-grandes.md)
-  * [Ações Médias](acoes-blipadas/acoes-medias/README.md)
+  * [🔫Ações Médias](acoes-blipadas/acoes-medias/README.md)
     * [Acougue](acoes-blipadas/acoes-medias/acougue.md)
     * [Container](acoes-blipadas/acoes-medias/container.md)
     * [Fleeca Chaves](acoes-blipadas/acoes-medias/fleeca-chaves.md)

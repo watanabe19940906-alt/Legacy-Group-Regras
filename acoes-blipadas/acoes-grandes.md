@@ -85,7 +85,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 ## Forte Zancudo
 
-&#x20;<mark style="background-color:$warning;">**Negociação: Não é permitido**</mark>
+<mark style="background-color:$warning;">**Negociação: Inexistente**</mark>
 
 {% hint style="info" %}
 **Regras Bandidos:** 15 membros.
@@ -120,7 +120,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 ## Madeireira
 
-&#x20;<mark style="background-color:$warning;">**Negociação: Não é permitido**</mark>
+<mark style="background-color:$warning;">**Negociação: Inexistente**</mark>
 
 {% hint style="info" %}
 **Regras Bandidos:** No mínimo 10 e no máximo 12 membros.
@@ -153,7 +153,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 ## Nióbio
 
-&#x20;<mark style="background-color:$warning;">**Negociação: Não é permitido**</mark>
+<mark style="background-color:$warning;">**Negociação: Inexistente**</mark>
 
 {% hint style="info" %}
 **Regras Bandidos:** 15 membros.
