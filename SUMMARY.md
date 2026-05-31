@@ -8,7 +8,6 @@
 * [💣 Ações e Perimetros](acoes-blipadas/README.md)
   * [🪂Air Drop](acoes-blipadas/air-drop.md)
   * [🔫 Ações Grandes](acoes-blipadas/acoes-grandes/README.md)
-    * [Banco Paleto](acoes-blipadas/acoes-grandes/banco-paleto.md)
     * [Forte Zancudo](acoes-blipadas/acoes-grandes/forte-zancudo.md)
     * [Madeireira](acoes-blipadas/acoes-grandes/madeireira.md)
     * [Niobio](acoes-blipadas/acoes-grandes/niobio.md)
