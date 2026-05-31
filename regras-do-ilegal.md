@@ -1,4 +1,4 @@
-# 🔫Regras do Ilegal
+# 💀 Regras do Ilegal
 
 ## REGLAMENTO GERAL DAS FACÇÕES
 
