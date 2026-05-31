@@ -38,7 +38,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 * [x] São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.
 * [x] É obrigatório portar o armamento necessário para realizar a ação.
 
-<figure><img src="../../.gitbook/assets/Banco Central.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Banco Central.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -55,7 +55,6 @@ _São permitidos, no máximo, 4 bandidos fora do Banco Paleto._
 {% endhint %}
 
 • Armamento: Somente Fuzil.\
-• Negociação: Obrigatório.\
 • Smoke: 4 (negociável)\
 • Shotgun: 2 (negociável)\
 • Refém: Opcional (Máximo 5).
@@ -80,7 +79,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 * [x] São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.
 * [x] É obrigatório portar o armamento necessário para realizar a ação.
 
-<figure><img src="../../.gitbook/assets/Banco Paleto.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Banco Paleto.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -95,7 +94,6 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
 
 • Armamento: Somente Fuzil.\
-• Negociação: Obrigatório.\
 • Smoke: 7 (no máximo)\
 • **É proibida a utilização da Shotgun para ambos os lados**\
 • Refém: Opcional (Máximo 5).\
@@ -104,6 +102,8 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 {% hint style="danger" icon="hexagon-xmark" %}
 **Reféns: Não permitido.**
+
+**É proibido realizar a ação no modo de fuga.**
 
 É proibido marcar o drop policial.
 
@@ -114,6 +114,77 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">**É obrigatório aguardar a polícia por 50 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.**</mark>
 
-<figure><img src="../../.gitbook/assets/Forte Zancudo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Forte Zancudo.png" alt=""><figcaption></figcaption></figure>
 
 ***
+
+## Madeireira
+
+&#x20;<mark style="background-color:$warning;">**Negociação: Não é permitido**</mark>
+
+{% hint style="info" %}
+**Regras Bandidos:** No mínimo 10 e no máximo 12 membros.
+
+**Polícia:** No máximo 15 membros.
+{% endhint %}
+
+• Armamento: Somente Fuzil.\
+• Negociação: Obrigatório.\
+• Smoke: 5 (no máximo)\
+• **É proibida a utilização da Shotgun para ambos os lados**\
+• Refém: Opcional (Máximo 5).\
+• É permitida a utilização de Helidrone.<br>
+
+{% hint style="danger" icon="hexagon-xmark" %}
+**É proibido realizar a ação no modo de fuga.**
+
+**Reféns: Não permitido**
+
+É proibido marcar o drop policial.
+
+O perímetro delimitado deve ser rigorosamente respeitado.
+{% endhint %}
+
+<mark style="color:$warning;">**É obrigatório aguardar a polícia por 50 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.**</mark>
+
+<figure><img src="../.gitbook/assets/Madereira.png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Nióbio
+
+&#x20;<mark style="background-color:$warning;">**Negociação: Não é permitido**</mark>
+
+{% hint style="info" %}
+**Regras Bandidos:** 15 membros.
+
+_É permitido o máximo de 4 bandidos no corredor final do Nióbio._
+
+_É permitido o máximo de 2 bandidos marcando a P2 do Nióbio_
+
+**Polícia:** No máximo 20 membros.
+{% endhint %}
+
+• Armamento: Somente Fuzil.\
+• Smoke: 5 (no máximo)\
+• **É proibida a utilização da Shotgun para ambos os lados**\
+• Refém: Opcional (Máximo 5).\
+• É permitida a utilização de Helidrone.\
+• **Teti-Chão**: Sim.\
+• Só é permitido marcar a P2 a partir da Porta Automática.
+
+{% hint style="danger" icon="hexagon-xmark" %}
+**É proibido realizar a ação no modo de fuga.**
+
+**Reféns: Não permitido**
+
+<mark style="background-color:$primary;">**É proibida a utilização da parte exterior do Niobio.**</mark>
+
+É proibido marcar o drop policial.
+
+O perímetro delimitado deve ser rigorosamente respeitado.
+{% endhint %}
+
+<mark style="color:$warning;">**É obrigatório aguardar a polícia por 50 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.**</mark>
+
+<figure><img src="../.gitbook/assets/Nióbio.png" alt=""><figcaption></figcaption></figure>
