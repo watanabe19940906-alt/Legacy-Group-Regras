@@ -1,20 +1,19 @@
-# Air Drop
+# 🪂Air Drop
 
-### Regras
+## Regras
 
 * **Bandidos:** sem limite de membros.
-* **Polícia:** presença proibida na ação.
 
----
+{% hint style="danger" icon="circle-x" %}
+**Polícia:** presença proibida na ação.
+{% endhint %}
 
-### **1. Armamento e Equipamentos**
+### **Armamento e Equipamentos**
 
-* Armamento: SOMENTE Pistolas;
+* Armamento: **SOMENTE Pistolas**
 * Permitida a utilização de **veículos terrestres**.
 
----
-
-### **2. Regras da ação**
+### **Regras da ação**
 
 * **Proibida qualquer forma de aliança ou junção** entre facções/organizações.
 * A partir do momento em que o AirDrop é coletado, **os tiros devem cessar**.
