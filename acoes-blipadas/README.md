@@ -40,6 +40,8 @@ _Caso os membros da facção com prioridade (que chegaram primeiro) estejam ause
 
 O descumprimento da prioridade não justifica abertura de fogo imedata. Deve ser priorizado o diálogo, bom senso e valorização do RP.
 
+***
+
 ## &#x20;**Regras Gerais**
 
 É terminantemente proibido utilizar **qualquer tipo de veículo** em ações blipadas. **Exceto:** HeliDrone.
@@ -59,5 +61,3 @@ O rush ou o início da troca de tiros **somente pode ocorrer após a expiração
 É **proibida** a utilização de qualquer tipo de capacete em ações blipadas.
 
 <mark style="background-color:$warning;">**É proibida a utilização de animações ou alterações na forma de caminhar em ações blipadas.**</mark>
-
-***
