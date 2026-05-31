@@ -1,5 +1,47 @@
 # 🔫 Ações Grandes
 
+## Queima de Arquivos
+
+Nessa ação, a facção poderá sequestrar um policial para trocar pelas provas de investigação (Documento confidencial) da SUA facção.
+
+{% hint style="warning" icon="triangle-exclamation" %}
+**NECESSÁRIO AVISAR A CÚPULA ANTECIPADAMENTE!**
+{% endhint %}
+
+A Facção deverá levar o oficial sequestrado <mark style="background-color:yellow;">**para seu QG**</mark> e abrir negociação com a polícia a fim de trocar o mesmo pelo item documento confidencial.
+
+**Após a troca, a polícia irá realizar uma incursão no QG.**
+
+> O portador do documento confidencial não poderá quitar e nem ir de GG na incursão.
+
+* [x] Caso a polícia ganhe a incursão, o documento é automaticamente recuperado, a investigação continua e os membros poderão ser interrogados.
+* [x] Caso a facção ganhe a incursão, a investigação se encerra e a facção fica imune à investigação por 30 dias.
+* [x] A Facção pode pedir apoio da cúpula. (250k cada mercenário respeitando a diferença de 25 policiais a mais).
+
+{% hint style="warning" %}
+Se o oficial for sequestrado na DP o RP deve continuar, **mas a queima de arquivo não será aceita.**
+{% endhint %}
+
+{% hint style="success" %}
+Contingente máximo da polícia
+{% endhint %}
+
+**Oficiais que poderão ser sequestrados para essa ação:**
+
+* Comissário
+* Secretário
+* Comando Geral
+
+{% hint style="info" %}
+Não esquecer de respeitar as áreas safes
+{% endhint %}
+
+&#x20;A incursão só pode se iniciar após a negociação da troca do oficial pelo documento.
+
+<mark style="background-color:$warning;">**Essa ação só poderá ser realizada uma vez a cada 30 dias. Use a cabeça e pense nas possibilidades de conseguir realizar esse RP**</mark>
+
+***
+
 ## Banco Central
 
 &#x20;<mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
