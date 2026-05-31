@@ -1,4 +1,4 @@
-# Setor Jurídico
+# ⚖️ Jurídico
 
 ### **1. Disposições Gerais**
 
@@ -8,7 +8,7 @@
 
 **1.3 —** As funções jurídicas contemplam: Desembargadores, Procuradores-Gerais da República, Juízes de Direito, Promotores, Advogado Chefe da OAB, Advogados Sênior, Advogados Júnior e Estagiários em Direito.
 
----
+***
 
 ### **2. Regras para Audiências**
 
@@ -18,7 +18,7 @@
 
 **2.3 —** A ordem obrigatória das audiências: **I.** Abertura pelo Juiz; **II.** Leitura da denúncia pelo Promotor; **III.** Defesa inicial pelo Advogado; **IV.** Oitiva de testemunhas; **V.** Alegações finais; **VI.** Prolação da sentença.
 
----
+***
 
 ### **3. Provas e Processos**
 
@@ -26,7 +26,7 @@
 
 **3.2 —** Falsificação ou manipulação de provas acarretará anulação do processo e punição administrativa.
 
----
+***
 
 ### **4. Penalidades Disciplinares**
 

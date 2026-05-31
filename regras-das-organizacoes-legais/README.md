@@ -1,2 +1,0 @@
-# Regras das Organizações Legais
-

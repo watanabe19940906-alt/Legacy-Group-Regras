@@ -1,79 +1,63 @@
-# Summary
+---
+description: >-
+  Dê vida ao seu personagem na Legacy Roleplay, uma cidade planejada para
+  oferecer o ápice da imersão e do realismo.
+cover:
+  light: .gitbook/assets/Legacy - GIF.gif
+  dark: .gitbook/assets/Legacy - GIF (2).gif
+coverY: 0
+coverHeight: 220
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
 
-* [Início](gitbook.md)
-* [Nossa Comunidade](/broken/pages/xGkRYVhkAfFnhstJOz6k)
-* [Denúncias e Punições](denuncias-e-punicoes.md)
-* [Screenshare](screenshare.md)
+# 👑 Legacy | Livro de Regras
 
-## Regras da Cidade
+Bem-vindo à <mark style="color:$warning;">**Legacy Roleplay**</mark>, um universo onde cada escolha define o destino do seu personagem. Aqui, não existem histórias prontas: são as suas decisões, ações e alianças que constroem o enredo da cidade.\
+​\
+Cada canto deste mundo tem vida. Os hospitais não cuidam apenas de ferimentos, mas renovam esperanças. As mecânicas são o berço da criatividade, onde cada veículo se torna uma obra de arte. Nas ruas, o Departamento de Polícia garante a ordem com firmeza, enquanto nas sombras, o submundo busca poder, influência e adrenalina a cada movimento.\
+​\
+E para quem respira competição, a cidade coloca suas habilidades à prova em torneios e eventos que testam o verdadeiro talento e a estratégia de cada jogador.\
+​\
+Mais do que um servidor, <mark style="color:$warning;">**somos uma experiência imersiva e única**</mark>, onde toda ação gera uma consequência. Aqui, cada história é singular, cada personagem é uma alma em busca de propósito  e o seu destino começa agora.
 
-* [Regras Gerais](gitbook/regrasdacidadforever/regras-gerais/)
-  * [Regras do RP](gitbook/regrasdacidadforever/regras-gerais/regras-do-rp.md)
-  * [PD de Personagem](gitbook/regrasdacidadforever/regras-gerais/pd-de-personagem.md)
-  * [Segundo Slot](gitbook/regrasdacidadforever/regras-gerais/segundo-slot.md)
-  * [Importações](gitbook/regrasdacidadforever/regras-gerais/importacoes.md)
-* [Roleplay Kids](gitbook/regrasdacidadforever/roleplay-kids/)
-  * [Regras da Adição de PEDs](gitbook/regrasdacidadforever/roleplay-kids/regras-da-adicao-de-peds.md)
-  * [Regras de Gravidez](gitbook/regrasdacidadforever/roleplay-kids/regras-de-gravidez.md)
-  * [Regras do Menor Aprendiz](gitbook/regrasdacidadforever/roleplay-kids/regras-do-menor-aprendiz.md)
+{% hint style="success" %}
+Trabalhamos em parceria com criadores de conteúdo e streamers, que compartilham suas\
+vivências na cidade e ajudam a fortalecer nossa comunidade, trazendo novas histórias,\
+perspectivas e dinâmicas ao servidor.
+{% endhint %}
 
-## Organizações Legais
+### Nosso Compromisso
 
-* [Manual de Conduta Policial](manual-de-conduta-policial.md)
-  * [Regulamento](/broken/pages/320af7f1be840dd76d63aa191dd4ea5f8faf95df)
-  * [Procedimentos Operacionais](/broken/pages/92a09655517cedb6d3481bbe381754332c0665e1)
-    * [Procedimento de Abordagem](/broken/pages/cd3ce4b21ebdc2516db2f0be0aad20213804f309)
-    * [Procedimento de Acompanhamento](/broken/pages/d384178f44728f844e4265a4a85d0b1273be9fef)
-    * [Procedimento Penal](/broken/pages/9f4ea4eee2feeab884ba6aa11b4af026ad45f8fb)
-    * [Comboio de Perímetro](/broken/pages/737c5b29a9096ff26eca1342b3d476d2c3e6dfdb)
-* [Mecânicas](regras-das-organizacoes-legais/mecanicas.md)
-* [Hospitais](hospitais.md)
-* [Restaurantes](regras-das-organizacoes-legais/restaurantes.md)
-* [Setor Jurídico](regras-das-organizacoes-legais/setor-juridico/)
-  * [Constituição Federal](regras-das-organizacoes-legais/setor-juridico/constituicao-federal.md)
-  * [E.C.A. - Estatuto da Criança e do Adolescente](regras-das-organizacoes-legais/setor-juridico/eca-estatuto-da-crianca-e-do-adolescente.md)
+Na Legacy, **não toleramos qualquer forma de preconceito,** incluindo racismo, homofobia, transfobia, capacitismo ou qualquer comportamento que incentive o ódio, a discriminação e o desrespeito, seja dentro ou fora do jogo.
 
-## Ilegal & Ações
+{% hint style="danger" icon="circle-x" %}
+Atitudes desse tipo são completamente incompatíveis com os nossos valores e estão sujeitas a punições severas, incluindo o banimento permanente.
+{% endhint %}
 
-* [Regras do Ilegal](gitbook/ilegal-and-acoes/regras-do-ilegal.md)
-* [Ações Blipadas](gitbook/ilegal-and-acoes/acoes-blipadas.md)
-* [Ações Pequenas](gitbook/ilegal-and-acoes/acoes-pequenas/)
-  * [Aeroporto Trevor](gitbook/ilegal-and-acoes/acoes-pequenas/aeroporto-trevor.md)
-  * [Ammunation Porto](gitbook/ilegal-and-acoes/acoes-pequenas/ammunation-porto.md)
-  * [Ammunation Praça](gitbook/ilegal-and-acoes/acoes-pequenas/ammunation-praca.md)
-  * [Antena](gitbook/ilegal-and-acoes/acoes-pequenas/antena.md)
-  * [Auditório](gitbook/ilegal-and-acoes/acoes-pequenas/auditorio.md)
-  * [Bebidas Samir](gitbook/ilegal-and-acoes/acoes-pequenas/bebidas-samir.md)
-  * [Comedy](gitbook/ilegal-and-acoes/acoes-pequenas/comedy.md)
-  * [Fast Food](gitbook/ilegal-and-acoes/acoes-pequenas/fast-food.md)
-  * [Lojinha Banco Central](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-banco-central.md)
-  * [Lojinha China](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-china.md)
-  * [Lojinha Grapeseed](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-grapeseed.md)
-  * [Lojinha Groove](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-groove.md)
-  * [Lojinha Praia](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-praia.md)
-  * [Lojinha Prefeitura](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-prefeitura.md)
-  * [Lojinha Barragem](gitbook/ilegal-and-acoes/acoes-pequenas/lojinha-barragem.md)
-  * [McDonald's](gitbook/ilegal-and-acoes/acoes-pequenas/mcdonalds.md)
-  * [Planet](gitbook/ilegal-and-acoes/acoes-pequenas/planet.md)
-* [Ações Médias](gitbook/ilegal-and-acoes/acoes-medias/)
-  * [Açougue](gitbook/ilegal-and-acoes/acoes-medias/acougue.md)
-  * [Observatório](gitbook/ilegal-and-acoes/acoes-medias/observatorio.md)
-  * [Container](gitbook/ilegal-and-acoes/acoes-medias/container.md)
-  * [Estacionamento Marrom](gitbook/ilegal-and-acoes/acoes-medias/estacionamento-marrom.md)
-  * [Fleeca Chaves](gitbook/ilegal-and-acoes/acoes-medias/fleeca-chaves.md)
-  * [Fleeca Life Invader](gitbook/ilegal-and-acoes/acoes-medias/fleeca-life-invader.md)
-  * [Fleeca Praia](gitbook/ilegal-and-acoes/acoes-medias/fleeca-praia.md)
-  * [Fleeca Rota 68](gitbook/ilegal-and-acoes/acoes-medias/fleeca-rota-68.md)
-  * [Fleeca Shopping](gitbook/ilegal-and-acoes/acoes-medias/fleeca-shopping.md)
-  * [Galinheiro](gitbook/ilegal-and-acoes/acoes-medias/galinheiro.md)
-  * [Hotel Rosa](gitbook/ilegal-and-acoes/acoes-medias/hotel-rosa.md)
-  * [Joalheria](gitbook/ilegal-and-acoes/acoes-medias/joalheria.md)
-  * [Mergulhador](gitbook/ilegal-and-acoes/acoes-medias/mergulhador.md)
-* [Ações Grandes](gitbook/ilegal-and-acoes/acoes-grandes/)
-  * [Banco Central](gitbook/ilegal-and-acoes/acoes-grandes/banco-central.md)
-  * [Banco Paleto](gitbook/ilegal-and-acoes/acoes-grandes/banco-paleto.md)
-  * [Forte Zancudo](gitbook/ilegal-and-acoes/acoes-grandes/forte-zancudo.md)
-  * [Madeireira](gitbook/ilegal-and-acoes/acoes-grandes/madeireira.md)
-  * [Nióbio](gitbook/ilegal-and-acoes/acoes-grandes/niobio.md)
-* [Air Drop](gitbook/ilegal-and-acoes/air-drop.md)
-* [Sequestros e Negociações](gitbook/ilegal-and-acoes/sequestros-e-negociacoes.md)
+Acreditamos que a <mark style="color:$warning;">**liberdade de expressão e a igualdade**</mark> são pilares fundamentais do roleplay, mas reforçamos: esses princípios jamais justificarão discursos de intolerância ou opressão. Nosso compromisso é construir, junto com vocês, uma cidade justa, empática e acolhedora  um espaço onde todos possam ser quem são, interpretar seus personagens com liberdade e viver histórias incríveis, sem medo ou insegurança.
+
+Contamos com a colaboração de cada cidadão para manter viva a verdadeira essência da **Legacy Roleplay.**
+
+
+
+_**Administração | Legacy Roleplay | Maio, 2026.**_
