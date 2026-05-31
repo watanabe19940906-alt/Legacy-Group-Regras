@@ -40,70 +40,29 @@
 #### **Proibição de Assaltos: É expressamente proibido realizar qualquer tipo de assalto na cidade.**
 {% endhint %}
 
+## Identificação, Veículos e Investigação
 
-
-***
-
-### **9. Uso de Máscaras e Disfarces**
-
-O uso de máscaras e disfarces é permitido exclusivamente durante ações criminosas.
-
-***
-
-### **10. Áreas de Risco**
-
-**10.1 —** Áreas de risco não possuem PvP liberado, sendo obrigatório iniciar roleplay antes de qualquer confronto.
-
-**10.2 —** Consideram-se áreas de risco: pontos de venda de drogas, QGs de facções, favelas e locais de negociação clandestina.
-
-**10.3 —** É expressamente proibido realizar qualquer tipo de assalto na cidade.
+1. **Uniformização: É obrigatório o uso de mochila ou uniforme personalizado em ações blipadas e ações de rua.**
+2. Reconhecimento: É permitido reconhecer mochilas e roupas personalizadas na pista. No entanto, <mark style="background-color:yellow;">**é expressamente proibido identificar ou reconhecer indivíduos apenas pela cor do veículo.**</mark>
+3. Máscaras: O uso de máscaras e disfarces é permitido exclusivamente durante ações criminosas.
+4. Furto de Veículos: O uso de veículos de outras organizações só é permitido se o objetivo principal for o furto do próprio carro. **É proibido furtar viaturas com a intenção de provocar a polícia (Cop Bait).**
+5. Limitações de Investigação: A polícia não poderá utilizar como base de investigação: números de telefone do Tor, publicações na plataforma ou fotos com identidade ocultada.
 
 ***
 
-### **11. Ações com Reféns**
+## Sequestros e Negociações
 
-Em situações que envolvam reféns, é **obrigatória a utilização dos itens algemas e capuz**.
+#### <mark style="background-color:$warning;">Restrições de Captura</mark>
 
-***
+* Elegibilidade: Apenas membros setados de uma organização ilegal podem realizar ações de sequestro e negociação.
+* Vínculo Pessoal: É proibido sequestrar pessoas que possuam qualquer tipo de vínculo pessoal com os sequestradores.
+* Civis Protegidos: É terminantemente proibido sequestrar grávidas, crianças ou realizar abordagens em locais onde haja a presença de menores.
+* Profissionais em Serviço: É proibido sequestrar mecânicos e médicos enquanto estiverem uniformizados e em pleno exercício de suas funções.
+* Organizações Ocupadas: É proibido sequestrar membros de outras organizações que estejam, no momento, segurando uma ação blipada.
+* Zonas Seguras: É proibido realizar sequestros em _safe zones_ ou utilizar essas áreas para ocultar ou transportar o refém.
 
-### **13. Uniformes de Facções**
+## Condução, Transporte e Rendição
 
-É obrigatório o uso de mochila ou uniforme personalizado em ações blipadas e ações de rua.
-
-***
-
-### **14. Reconhecimento de Uniformes / Cor de carro**
-
-**14.1 —** É permitido reconhecer mochilas e roupas personalizadas durante ações na pista.
-
-**14.2 —** É expressamente proibido identificar ou reconhecer indivíduos com base apenas na cor do veículo.
-
-***
-
-### **16. Furto de Veículos**
-
-**16.1 —** O uso de veículos de organizações alheias só é permitido quando o objetivo principal for o furto do veículo.
-
-**16.2 —** É **proibido o furto de viaturas** com intenção de provocar confronto com a polícia **(Cop Bait)**.
-
-***
-
-### **17. Prazos para ações de Rua**
-
-**17.1 —** Todas as ações iniciadas em pista possuem **prazo máximo de 24 horas** para serem concluídas.
-
-**17.2 —** É **obrigatório** manter registro completo da ação.
-
-***
-
-### **22. Fuga Limpa**
-
-**22.1 —** Consideram-se fugas limpas situações como quebra de caixas eletrônicos e corridas ilegais, **desde que não haja disparos ou confronto direto**.
-
-**22.2 —** Não é permitido realizar qualquer tipo de resgate com o uso de armas.
-
-***
-
-### **26. Investigações Policiais**
-
-**26.1 —** A D.I.P. não poderá utilizar como base de investigação: números telefônicos do Tor, publicações na plataforma ou fotografias com identidade ocultada.
+* Rendição Imediata: O uso de algemas e capuz é obrigatório imediatamente após o indivíduo ser rendido.
+* Restrição de Veículos: É proibido o uso de motocicletas para o transporte do indivíduo sequestrado.
+* &#x20;Logística de Fuga: É proibido solicitar veículos adicionais para a fuga, independentemente da situação ou contexto do RP.
