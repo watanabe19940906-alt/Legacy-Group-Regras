@@ -2,11 +2,8 @@
 description: >-
   Dê vida ao seu personagem na Legacy Roleplay, uma cidade planejada para
   oferecer o ápice da imersão e do realismo.
-cover:
-  light: .gitbook/assets/Legacy - GIF.gif
-  dark: .gitbook/assets/Legacy - GIF (2).gif
+cover: .gitbook/assets/REGRAS_BANNER.png
 coverY: 0
-coverHeight: 220
 layout:
   width: default
   cover:
@@ -61,3 +58,4 @@ Contamos com a colaboração de cada cidadão para manter viva a verdadeira ess�
 
 
 _**Administração | Legacy Roleplay | Maio, 2026.**_
+
