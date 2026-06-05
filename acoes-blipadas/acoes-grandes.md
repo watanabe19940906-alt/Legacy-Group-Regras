@@ -47,11 +47,11 @@ Não esquecer de respeitar as áreas safes
 &#x20;<mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
 
 {% hint style="info" icon="triangle-exclamation" %}
-**Regras Bandidos:** No mínimo 10 e no máximo 12 membros.
+**Regras Bandidos:** 10 membros
 
 São permitidos no máximo 3 bandidos fora do Banco Central.
 
-**Polícia:** No máximo 15 membros.
+**Polícia:** 14 membros.
 {% endhint %}
 
 • Armamento: Somente Fuzil.\
@@ -75,7 +75,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 > **Reféns: No máximo 5 Reféns | Fuga Limpa: Negociável.**
 
-* [x] São necessários no mínimo 2 veículos por parte dos bandidos.
+* [x] São necessários no mínimo 3 veículos por parte dos bandidos.
 * [x] São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.
 * [x] É obrigatório portar o armamento necessário para realizar a ação.
 
@@ -88,11 +88,11 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 &#x20;<mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** No mínimo 8 e no máximo 10 membros.&#x20;
+**Regras Bandidos:** 10 membros.&#x20;
 
 _São permitidos, no máximo, 4 bandidos fora do Banco Paleto._
 
-**Polícia:** No máximo 12 membros.
+**Polícia:** No máximo 14 membros.
 {% endhint %}
 
 • Armamento: Somente Fuzil.\
@@ -105,9 +105,7 @@ _São permitidos, no máximo, 4 bandidos fora do Banco Paleto._
 
 O perímetro delimitado deve ser rigorosamente respeitado.
 
-É proibida a utilização da Coroa do Banco Central.
-
-É proibida a utilização da posição do Lustre do Banco Central.
+Só é permitido sair do banco após 5 minutos que o balão do inicio da ação cair.
 {% endhint %}
 
 <mark style="color:$warning;">**É obrigatório aguardar a polícia por 50 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.**</mark>
@@ -116,7 +114,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 > **Reféns: No máximo 5 Reféns | Fuga Limpa: Negociável.**
 
-* [x] São necessários no mínimo 2 veículos por parte dos bandidos.
+* [x] São necessários no mínimo 3 veículos por parte dos bandidos.
 * [x] São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.
 * [x] É obrigatório portar o armamento necessário para realizar a ação.
 
@@ -135,7 +133,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
 
 • Armamento: Somente Fuzil.\
-• Smoke: 7 (no máximo)\
+• Smoke: 5 (no máximo)\
 • **É proibida a utilização da Shotgun para ambos os lados**\
 • Refém: Opcional (Máximo 5).\
 • É permitida a utilização de Helidrone.\
