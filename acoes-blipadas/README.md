@@ -61,3 +61,19 @@ O rush ou o início da troca de tiros **somente pode ocorrer após a expiração
 É **proibida** a utilização de qualquer tipo de capacete em ações blipadas.
 
 <mark style="background-color:$warning;">**É proibida a utilização de animações ou alterações na forma de caminhar em ações blipadas.**</mark>
+
+***
+
+## Regras de Negociação
+
+{% hint style="info" %}
+É PERMITIDO APENAS 2 ATIRADORES E 1 HELI POR AÇÃO.
+{% endhint %}
+
+* Para retirada dos 2 atiradores são necessários 3 reféns, sendo 2 reféns para a retirada do 1º atirador e 1 refém para a retirada do 2º atirador
+* Para retirada de todas Shotgun são necessários 2 reféns, para ações que são permitidas apenas 1 shotgun fica ainda necessário a quantidade de 2 reféns.
+* Para retirada de todas as smokes são necessários 3 reféns, 1 refém retira apenas 1 smoke.
+* É proibido retirada do helidrone e reposicionamento.
+* A partir do momento que o heli abaixar da altura do poste fica liberado disparos contra o mesmo.
+* Para realização de fuga limpa é necessário 3 reféns.
+* É proibido a retirada de itens como: energético, colete, unidades policiais (heli conta como unidade), policiais e armamentos (exceto shotgun)

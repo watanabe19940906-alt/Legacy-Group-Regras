@@ -552,3 +552,44 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <figure><img src="../.gitbook/assets/Planet.png" alt=""><figcaption></figcaption></figure>
 
+***
+
+## Barbearia
+
+{% hint style="info" %}
+**Regras Bandidos:** 4 membros.
+
+**Polícia: 4** membros.
+{% endhint %}
+
+• Armamento: Somente arma branca (arma com corte é proíbido)
+
+&#x20;• É Proibida a utilização de Smokes&#x20;
+
+• Teti-Chão: Sim
+
+{% hint style="danger" icon="circle-x" %}
+**Reféns: Não permitido.**
+
+**É proibido realizar a ação no modo de fuga.**
+
+O perímetro delimitado deve ser rigorosamente respeitado. (verde: policia - vermelho: bandidos)
+
+Caso não seja negociado se será teti-chão ou teti-alto (em ações que é permitido o teti-alto), a ação será considerada teti-alto
+{% endhint %}
+
+<mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia</mark>
+
+{% tabs %}
+{% tab title="Praia" %}
+<figure><img src="../.gitbook/assets/Design_sem_nome (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title=" Barragem" %}
+<figure><img src="../.gitbook/assets/Design_sem_nome_2.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="Groove" %}
+<figure><img src="../.gitbook/assets/Design_sem_nome_1.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
