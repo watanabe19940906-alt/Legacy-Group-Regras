@@ -122,20 +122,19 @@ Só é permitido sair do banco após 5 minutos que o balão do inicio da ação 
 
 ***
 
-## Forte Zancudo
+## Hotel Rosa
 
 <mark style="background-color:$warning;">**Negociação: Inexistente**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** 15 membros.
+**Regras Bandidos:** 10 membros.
 
-**Polícia:** No máximo 20 membros.
+**Polícia:** No máximo 12 membros.
 {% endhint %}
 
-• Armamento: Somente Fuzil.\
-• Smoke: 5 (no máximo)\
+• Armamento: Submetralhadora ou Fuzil\
+• Smoke: PROIBIDO.\
 • **É proibida a utilização da Shotgun para ambos os lados**\
-• Refém: Opcional (Máximo 5).\
 • É permitida a utilização de Helidrone.\
 • **Teti-Chão**: Sim.
 
@@ -146,14 +145,14 @@ Só é permitido sair do banco após 5 minutos que o balão do inicio da ação 
 
 É proibido marcar o drop policial.
 
-É proibida a utilização da Torre do Zancudo.
+Limite de 5 bandidos após escadas da área das quadras de tênis
 
 O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
 
 <mark style="color:$warning;">**É obrigatório aguardar a polícia por 50 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.**</mark>
 
-<figure><img src="../.gitbook/assets/Forte Zancudo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Design sem nome (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

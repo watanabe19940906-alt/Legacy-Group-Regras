@@ -30,36 +30,6 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 ***
 
-## Container
-
-<mark style="background-color:$warning;">**Negociação: Inexistente**</mark>
-
-{% hint style="info" %}
-**Regras Bandidos:** No mínimo 8 e no máximo 10 membros.
-
-**Polícia:** No máximo 12 membros.
-{% endhint %}
-
-• Armamento: Submetralhadora.\
-• Smoke: 3 (máximo)\
-• Teti-Chão: Sim
-
-{% hint style="danger" icon="circle-x" %}
-**Reféns: Não permitido.**
-
-**É proibido realizar a ação no modo de fuga.**
-
-É proibido marcar o drop policial.
-
-O perímetro delimitado deve ser rigorosamente respeitado.
-{% endhint %}
-
-<mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
-
-<figure><img src="../.gitbook/assets/Containers.png" alt=""><figcaption></figcaption></figure>
-
-***
-
 ## Fleeca Chaves
 
 <mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
