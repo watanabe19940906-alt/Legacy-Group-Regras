@@ -145,8 +145,6 @@ Só é permitido sair do banco após 5 minutos que o balão do inicio da ação 
 
 É proibido marcar o drop policial.
 
-Limite de 5 bandidos após escadas da área das quadras de tênis
-
 O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
 
