@@ -5,9 +5,9 @@
 <mark style="background-color:$warning;">**Negociação: Inexistente**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** No mínimo 8 e no máximo 10 membros.
+**Regras Bandidos:** 8 membros.
 
-**Polícia:** No máximo 12 membros.
+**Polícia:** No máximo 11 membros.
 {% endhint %}
 
 • Armamento: Submetralhadora.\
@@ -35,7 +35,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** No mínimo 6 e no máximo 8 membros.
+**Regras Bandidos:** 8 membros.
 
 **Polícia:** No máximo 10 membros.
 {% endhint %}
@@ -69,7 +69,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** No mínimo 6 e no máximo 8 membros.
+**Regras Bandidos:**  8 membros.
 
 **Polícia:** No máximo 10 membros.
 {% endhint %}
@@ -104,7 +104,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** No mínimo 6 e no máximo 8 membros.
+**Regras Bandidos:** 8 membros.
 
 **Polícia:** No máximo 10 membros.
 {% endhint %}
@@ -137,7 +137,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** No mínimo 6 e no máximo 8 membros.
+**Regras Bandidos:**  8 membros.
 
 **Polícia:** No máximo 10 membros.
 {% endhint %}
@@ -170,7 +170,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** No mínimo 6 e no máximo 8 membros.
+**Regras Bandidos:**  8 membros.
 
 **Polícia:** No máximo 10 membros.
 {% endhint %}
@@ -203,9 +203,9 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Inexistente.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** No mínimo 8 e no máximo 10 membros.
+**Regras Bandidos:** 10 membros.
 
-**Polícia:** No máximo 12 membros.
+**Polícia:**  14 membros.
 {% endhint %}
 
 • Armamento: Submetralhadora.\
@@ -233,11 +233,11 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** No mínimo 6 e no máximo 8 membros.
+**Regras Bandidos:** 7 membros.
 
 _São permitidos no máximo 3 bandidos fora da Joalheria._
 
-**Polícia**: No máximo 10 membros.
+**Polícia**: 9 membros.
 {% endhint %}
 
 • Armamento: Submetralhadora \
@@ -300,7 +300,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Inexistente.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** No mínimo 8 e no máximo 10 membros.
+**Regras Bandidos:** 10 membros.
 
 **Polícia:** No máximo 12 membros..
 {% endhint %}

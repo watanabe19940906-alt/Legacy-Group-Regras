@@ -118,9 +118,9 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Inexistente.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** Mínimo 2 e Máximo 3 membros.
+**Regras Bandidos:** 3 membros.
 
-**Polícia: 4** membros.
+**Polícia: 5** membros.
 {% endhint %}
 
 • Armamento: Pistola\
