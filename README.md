@@ -2,6 +2,7 @@
 description: >-
   Dê vida ao seu personagem na Legacy Roleplay, uma cidade planejada para
   oferecer o ápice da imersão e do realismo.
+cover: .gitbook/assets/ChatGPT Image 21 de jul. de 2026, 18_43_59.png
 coverY: 0
 layout:
   width: default
