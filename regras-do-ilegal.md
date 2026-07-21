@@ -2,7 +2,7 @@
 
 ## REGLAMENTO GERAL DAS FACÇÕES
 
-#### <mark style="background-color:red;">Gestão Administrativa e Discord</mark>
+#### <mark style="background-color:green;">Gestão Administrativa e Discord</mark>
 
 1. &#x20;**Regras Internas:** Cada facção deve seguir seu próprio regulamento interno. É responsabilidade da liderança garantir que os membros conheçam as regras da cidade e mantenham uma conduta coerente.
 2. **Registro e Hierarquia (Discord Ilegal):** É obrigatório fornecer e manter a hierarquia atualizada a cada 15 dias.
@@ -15,7 +15,7 @@
 
 ## Atividade, Ausência e Remoção
 
-* **Inatividade da Facção:** Toda facção deve manter-se ativa de maneira contínua. Caso seja identificada inatividade superior a 7 dias, a <mark style="color:$warning;">remoção da facção</mark> poderá ser efetuada sem aviso prévio.
+* **Inatividade da Facção:** Toda facção deve manter-se ativa de maneira contínua. Caso seja identificada inatividade superior a 7 dias, a <mark style="color:$primary;">remoção da facção</mark> poderá ser efetuada sem aviso prévio.
 * **Critérios de Remoção:** A organização também poderá ser removida por baixa produtividade, número reduzido de membros ativos, recorrência de denúncias e acúmulo de advertências.
 * **Ausência de Membros (PD):** Membros ausentes da cidade por mais de 3 dias poderão receber PD administrativo.&#x20;
 
@@ -23,7 +23,7 @@
 
 ## Diretrizes de Combate e Conflitos
 
-* <mark style="background-color:yellow;">**Guerras: Conflitos classificados como "guerra" só poderão ocorrer com autorização prévia da cúpula.**</mark>
+* <mark style="background-color:$primary;">**Guerras: Conflitos classificados como "guerra" só poderão ocorrer com autorização prévia da cúpula.**</mark>
 * Alianças: É estritamente proibida qualquer forma de auxílio ou colaboração entre facções durante ações, exceto quando formalmente permitido pela Cúpula.
 * Retorno a Ações: É proibido retornar a uma ação sob qualquer circunstância. Após ser neutralizado, o jogador deve respeitar o período mínimo de 1 hora afastado da situação.
 * Reanimação e Socorro: É proibido reanimar qualquer indivíduo enquanto a ação estiver em andamento. **Em ações blipadas, o atendimento médico só pode ser acionado após a apreensão de todos os itens ilegais.**
@@ -43,7 +43,7 @@
 ## Identificação, Veículos e Investigação
 
 1. **Uniformização: É obrigatório o uso de mochila ou uniforme personalizado em ações blipadas e ações de rua.**
-2. Reconhecimento: É permitido reconhecer mochilas e roupas personalizadas na pista. No entanto, <mark style="background-color:yellow;">**é expressamente proibido identificar ou reconhecer indivíduos apenas pela cor do veículo.**</mark>
+2. Reconhecimento: É permitido reconhecer mochilas e roupas personalizadas na pista. No entanto, <mark style="background-color:$primary;">**é expressamente proibido identificar ou reconhecer indivíduos apenas pela cor do veículo.**</mark>
 3. Máscaras: O uso de máscaras e disfarces é permitido exclusivamente durante ações criminosas.
 4. Furto de Veículos: O uso de veículos de outras organizações só é permitido se o objetivo principal for o furto do próprio carro. **É proibido furtar viaturas com a intenção de provocar a polícia (Cop Bait).**
 5. Limitações de Investigação: A polícia não poderá utilizar como base de investigação: números de telefone do Tor, publicações na plataforma ou fotos com identidade ocultada.
@@ -52,7 +52,7 @@
 
 ## Sequestros e Negociações
 
-#### <mark style="background-color:$warning;">Restrições de Captura</mark>
+#### <mark style="background-color:$primary;">Restrições de Captura</mark>
 
 * Elegibilidade: Apenas membros setados de uma organização ilegal podem realizar ações de sequestro e negociação.
 * Vínculo Pessoal: É proibido sequestrar pessoas que possuam qualquer tipo de vínculo pessoal com os sequestradores.

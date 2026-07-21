@@ -586,10 +586,10 @@ Caso não seja negociado se será teti-chão ou teti-alto (em ações que é per
 {% endtab %}
 
 {% tab title=" Barragem" %}
-<figure><img src="../.gitbook/assets/Design_sem_nome_2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Barbearia Barragem.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Groove" %}
-<figure><img src="../.gitbook/assets/Design_sem_nome_1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Barbearia Groove.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}

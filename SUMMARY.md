@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👑 Legacy | Livro de Regras](README.md)
+* [💚 Comando | Livro de Regras](README.md)
 * [📕Regras do Roleplay](regras-do-rp.md)
 * [📚 Regras Gerais](regras-do-rp-1.md)
 * [💀 Regras do Ilegal](regras-do-ilegal.md)

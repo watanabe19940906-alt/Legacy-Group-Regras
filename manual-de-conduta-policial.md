@@ -9,7 +9,7 @@ description: >-
 
 ## Regras de Acompanhamento Policial
 
-<mark style="color:$warning;">**Acompanhamento Aéreo:**</mark> Caso indivíduos sejam flagrados utilizando helicóptero para tráfico de drogas, a unidade aérea da polícia (GATE) deverá: Emitir três (3) avisos formais para pouso da aeronave.&#x20;
+<mark style="color:$primary;">**Acompanhamento Aéreo:**</mark> Caso indivíduos sejam flagrados utilizando helicóptero para tráfico de drogas, a unidade aérea da polícia (GATE) deverá: Emitir três (3) avisos formais para pouso da aeronave.&#x20;
 
 {% hint style="warning" icon="message-exclamation" %}
 Respeitar um intervalo mínimo de 3 minutos entre cada aviso.
@@ -67,7 +67,7 @@ A abordagem policial é um procedimento sensível que requer atenção, cautela 
 
 ## **Uso progressivo da força**
 
-<div align="left"><figure><img src="../.gitbook/assets/Uso Progressivo da Força Policial.png" alt="" width="513"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/Uso Progressivo da Força Policial.png" alt="" width="513"><figcaption></figcaption></figure></div>
 
 * **Presença Policial:** Muitas vezes, só a chegada da viatura ou a postura firme já são suficientes para controlar a situação.
 * **Verbalização:** Ordens claras e objetivas: "pare", "afaste-se", "mostre as mãos".

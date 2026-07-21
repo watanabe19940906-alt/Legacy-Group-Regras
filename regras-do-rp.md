@@ -1,6 +1,6 @@
 # 📕Regras do Roleplay
 
-## Regras do Roleplay | Legacy&#x20;
+## Regras do Roleplay | Comando
 
 As regras de Roleplay existem para garantir uma experiência imersiva, justa, coerente e respeitosa para todos os jogadores. Elas servem como diretrizes baseadas no bom senso, visando preservar a qualidade do RP e evitar comportamentos que prejudiquem a narrativa coletiva da cidade.
 

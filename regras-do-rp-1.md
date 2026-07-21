@@ -21,7 +21,7 @@ comportamento. Qualquer tentativa de identificação nessas condições é invá
 
 ## 4. Profissões Legais
 
-* [x] Agentes públicos ou profissionais **em serviço** <mark style="color:$warning;">**não podem ter seus pertences roubados**</mark>.&#x20;
+* [x] Agentes públicos ou profissionais **em serviço** <mark style="color:$primary;">**não podem ter seus pertences roubados**</mark><mark style="color:$primary;">.</mark>&#x20;
 * [x] Enquanto estiver exercendo função legal, o jogador não poderá realizar nenhuma atividade ilícita.
 * [x] Veículos de serviços legais não podem ser utilizados para fins criminosos.
 
@@ -41,7 +41,7 @@ xenofobia, incentivo ao suicídio ou condutas semelhantes é absolutamente proib
 sendo passível de punições severas.
 {% endhint %}
 
-## 7. Não é permitido utilizar <mark style="color:$warning;">/gg</mark> antes do encerramento total da ação. <a href="#nao-e-permitido-utilizar-gg-antes-do-encerramento-total-da-acao" id="nao-e-permitido-utilizar-gg-antes-do-encerramento-total-da-acao"></a>
+## 7. Não é permitido utilizar <mark style="color:$primary;">/gg</mark> antes do encerramento total da ação. <a href="#nao-e-permitido-utilizar-gg-antes-do-encerramento-total-da-acao" id="nao-e-permitido-utilizar-gg-antes-do-encerramento-total-da-acao"></a>
 
 > O jogador deve aguardar atendimento médico sempre que possível. O uso de /gg só é autorizado quando não houver médicos disponíveis, não existir possibilidade de resgate ou após liberação adequada. Caso seja levantado pela polícia, o RP de prisão deverá ser seguido integralmente
 
@@ -55,7 +55,7 @@ Isso inclui, por exemplo, ir na&#x20;mecânica e sair sem pagar.
 
 ## 10. Não é permitido iniciar ou fugir para Safezones durante ações.
 
-11\. Após a polícia declarar <mark style="color:$warning;">perímetro aberto</mark>, é proibido matar oficiais ou resgatar corpos.
+11\. Após a polícia declarar <mark style="color:$primary;">perímetro aberto</mark>, é proibido matar oficiais ou resgatar corpos.
 ---------------------------------------------------------------------------------------------------------------------------------
 
 {% hint style="warning" %}
@@ -64,7 +64,7 @@ Abertura do perímetro exige 1 minuto completo sem disparos.
 Após perímetro aberto, o resgate de corpos é permitida e a abordagem, caso aconteça, deverá seguir o RP, sendo proibido receber disparos direto (Aplicável a polícia).
 {% endhint %}
 
-> O resgate de corpo em <mark style="color:$warning;">**perímetro fechado (Código 5)**</mark>, é permitido sob risco. Isso quer dizer que o jogador poderá ser abatido.
+> O resgate de corpo em <mark style="color:$primary;">**perímetro fechado (Código 5)**</mark>, é permitido sob risco. Isso quer dizer que o jogador poderá ser abatido.
 
 
 
@@ -104,7 +104,7 @@ spawn, garagens centrais, pier, praça e restaurantes.
 
 ## 21. Capacetes são proibidos em ações de rua e blipadas.
 
-## 22. <mark style="color:red;">Alianças são proibidas</mark> (exceto ações fechadas sob regras).
+## 22. <mark style="color:$primary;">Alianças são proibidas</mark> (exceto ações fechadas sob regras).
 
 ## 23. Uso de uniforme da própria facção em cobranças de pista e ações blipadas é obrigatório.
 
@@ -124,7 +124,7 @@ Crashes forçados são considerados Combat Logging.
 Aliciar jogadores para outros servidores é concorrência desleal e resulta em banimento permanente.
 {% endhint %}
 
-## 27. Pets são proibidos em ações blipadas.
+## 27. Peds são proibidos em ações blipadas.
 
 ## 28. Proibido questionar punição, staff ou regras dentro da cidade.
 
@@ -134,7 +134,7 @@ Proibido provocar staff e tratar com desrespeito staff dentro ou fora do jogo (J
 
 ## 29. Proibição de fake reports / denúncias maliciosas.
 
-## **30. Proibido “fake police”&#x20;**<mark style="color:red;">**(se passar por policial)**</mark>
+## **30. Proibido “fake police”&#x20;**<mark style="color:$primary;">**(se passar por policial)**</mark>
 
 > É proibido fingir ser policial, agente da lei ou qualquer autoridade pública para enganar, intimidar, obter vantagens, acesso, informações ou influência sobre outras pessoas.
 

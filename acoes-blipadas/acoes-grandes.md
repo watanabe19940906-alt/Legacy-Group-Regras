@@ -150,7 +150,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">**É obrigatório aguardar a polícia por 50 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.**</mark>
 
-<figure><img src="../.gitbook/assets/Design sem nome (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Banco Rosa.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
