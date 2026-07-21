@@ -17,7 +17,7 @@ Respeitar um intervalo mínimo de 3 minutos entre cada aviso.
 
 Caso o suspeito ignore todas as ordens, a polícia estará autorizada a: Efetuar disparos controlados contra a aeronave, com o objetivo de danificar seu funcionamento e forçar o pouso.
 
-<mark style="color:$warning;">Fuga Aquática:</mark> Se, durante um acompanhamento, o suspeito se jogar na água para fugir, os policiais deverão manter o acompanhamento por, no mínimo, 3 minutos.&#x20;
+<mark style="color:$primary;">Fuga Aquática:</mark> Se, durante um acompanhamento, o suspeito se jogar na água para fugir, os policiais deverão manter o acompanhamento por, no mínimo, 3 minutos.&#x20;
 
 {% hint style="warning" icon="message-exclamation" %}
 Após esse período, fica autorizado o uso de força física (socos), com a finalidade de: Desmaiar o indivíduo/Garantir a contenção e finalização segura da ocorrência.&#x20;
@@ -25,7 +25,7 @@ Após esse período, fica autorizado o uso de força física (socos), com a fina
 
 Obrigatório RP prévio antes de qualquer ação policial (como prisões). <mark style="background-color:$warning;">Caixa 2 é extremamente proibido.</mark>  Caso seja pego a realizando, sofrerá punições internas.
 
-<mark style="color:$warning;">**Fuga a pé:**</mark> Durante um acompanhamento a pé o oficial não pode retornar a sua QSV após o desembarque e é utilizado apenas a cabeçada com alteração do procedimento apenas nas seguintes situações:
+<mark style="color:$primary;">**Fuga a pé:**</mark> Durante um acompanhamento a pé o oficial não pode retornar a sua QSV após o desembarque e é utilizado apenas a cabeçada com alteração do procedimento apenas nas seguintes situações:
 
 ⦁ Utilizar rádio durante o acompanhamento ➩TAZER&#x20;
 
@@ -67,8 +67,6 @@ A abordagem policial é um procedimento sensível que requer atenção, cautela 
 
 ## **Uso progressivo da força**
 
-<div align="left"><figure><img src=".gitbook/assets/Uso Progressivo da Força Policial.png" alt="" width="513"><figcaption></figcaption></figure></div>
-
 * **Presença Policial:** Muitas vezes, só a chegada da viatura ou a postura firme já são suficientes para controlar a situação.
 * **Verbalização:** Ordens claras e objetivas: "pare", "afaste-se", "mostre as mãos".
 * **Contenção Física Leve:** Segurar no braço, conter movimento sem causar lesões.
@@ -93,8 +91,8 @@ Abordagens em indivíduos do **sexo feminino** devem ser realizadas exclusivamen
 > As ações entre facções criminosas e forças policiais podem ocorrer nas seguintes situações:
 
 * Pacificação Oficial: somente mediante autorização do Jurídico e da SSP, obrigatoriamente acompanhada de provas;
-* <mark style="background-color:$warning;">**Incursão Imediata:**</mark> quando um indivíduo em fuga entra em sua própria Favela ou QG;
-* <mark style="background-color:$warning;">**Incursão Imediata:**</mark> quando houver disparos realizados de dentro do território (Favela ou QG) para fora.
+* <mark style="background-color:$primary;">**Incursão Imediata:**</mark> quando um indivíduo em fuga entra em sua própria Favela ou QG;
+* <mark style="background-color:$primary;">**Incursão Imediata:**</mark> quando houver disparos realizados de dentro do território (Favela ou QG) para fora.
 
 ***
 
