@@ -18,9 +18,9 @@
 * As reavaliações de denúncias poderão ser solicitadas no mesmo ticket onde a denúncia foi realizada, não sendo mais necessária a abertura de um ticket adicional para esse fim. _Caso a denúncia realmente demande uma reavaliação, os cargos superiores serão acionados internamente pela própria staff, garantindo a análise adequada da situação._ _Ressaltamos que o pedido de reavaliação deve possuir fundamento. Não serão aceitas reavaliações por qualquer motivo ou apenas por insatisfação com o resultado. Solicitações sem justificativa plausível poderão ser negadas._
 * Quando uma denúncia apresentar clipes nos quais ambas as partes tenham cometido infrações às regras, o denunciante será informado sobre essa condição e questionado se deseja prosseguir com a denúncia. Caso opte por continuar, a denúncia será analisada normalmente e as punições cabíveis serão aplicadas a ambas as partes, inclusive ao denunciante.
 
-> <mark style="background-color:$warning;">Obs: Antes de abrir qualquer tipo de denuncia analise bem as provas e abra a denuncia para corrigir e melhorar o servidor e não na intenção de prejudicar o próximo.</mark>
+> <mark style="background-color:$primary;">Obs: Antes de abrir qualquer tipo de denuncia analise bem as provas e abra a denuncia para corrigir e melhorar o servidor e não na intenção de prejudicar o próximo.</mark>
 >
->> \ <mark style="background-color:$warning;">Obs: Toda denúncia deve ser feita via ticket, contendo todas as provas e regularidades acima.</mark>
+>> \ <mark style="background-color:$primary;">Obs: Toda denúncia deve ser feita via ticket, contendo todas as provas e regularidades acima.</mark>
 
 {% hint style="danger" icon="bullhorn" %}
 **Todas as regras do servidor servem como diretriz geral.**

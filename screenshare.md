@@ -2,7 +2,7 @@
 
 ## **Procedimento de Telagem**
 
-O procedimento de telagem <mark style="background-color:$warning;">**não é obrigatório por padrão**</mark><mark style="background-color:$warning;">,</mark> porém a administração poderá aplicar **banimento permanente** caso o jogador se recuse a realizá-la quando houver suspeita de uso de softwares maliciosos.
+O procedimento de telagem <mark style="background-color:$primary;">**não é obrigatório por padrão**</mark><mark style="background-color:$primary;">,</mark> porém a administração poderá aplicar **banimento permanente** caso o jogador se recuse a realizá-la quando houver suspeita de uso de softwares maliciosos.
 
 {% hint style="info" %}
 Esse procedimento existe para **garantir o bom andamento do servidor**, cumprir as regras de monitoramento administrativo e manter a integridade das provas.
@@ -41,7 +41,7 @@ Também é proibido desativar serviços essenciais, tais como:
 * Possuir registros de compra ou acesso a tais servidores.
 * Realizar pesquisas relacionadas a cheats ou bypass.
 
-<mark style="color:$warning;">**Jogadores que se recusarem a passar pela telagem serão banidos por "Refuse SS".**</mark>
+<mark style="color:$primary;">**Jogadores que se recusarem a passar pela telagem serão banidos por "Refuse SS".**</mark>
 
 ***
 
@@ -65,7 +65,7 @@ Após a análise, a equipe VAR poderá decidir por:
 Liberação: Caso nenhum arquivo, rastro ou comportamento irregular seja identificado (ou formatação, quando necessário).
 {% endhint %}
 
-### <mark style="background-color:$warning;">**Banimento Permanente**</mark>
+### <mark style="background-color:$primary;">**Banimento Permanente**</mark>
 
 Caso sejam encontrados:
 
@@ -76,9 +76,9 @@ Caso sejam encontrados:
 * Uso de versões modificadas ou não oficiais do Windows (podendo ser banimento perma, ou necessário formatação - a julgar)
 * Compactuação com jogadores que utilizem trapaças.
 
-_<mark style="color:$danger;">O banimento ocorrerá independentemente de o cheat ter sido usado ou não no</mark>_\
-_<mark style="color:$danger;">servidor. Caso você tenha sido banido por cheat em outra cidade, poderá ser banido</mark>_\
-_<mark style="color:$danger;">também na Legacy Rp.</mark>_
+_<mark style="color:$primary;">O banimento ocorrerá independentemente de o cheat ter sido usado ou não no</mark>_\
+_<mark style="color:$primary;">servidor. Caso você tenha sido banido por cheat em outra cidade, poderá ser banido</mark>_\
+_<mark style="color:$primary;">também na Comando Rp.</mark>_
 
 ## **Obrigatoriedade de Gravação de Ações**
 

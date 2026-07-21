@@ -9,7 +9,7 @@ Ao realizar qualquer doação em nossa loja, o usuário declara estar **ciente e
 ## Natureza das Compras (Doações)
 
 {% hint style="success" %}
-Todas as contribuições realizadas em nossa loja possuem <mark style="color:$warning;">**caráter de doação voluntária**</mark>, com o objetivo de **auxiliar na manutenção, melhoria e continuidade do servidor**, incluindo custos com hospedagem, desenvolvimento, otimização, sistemas, equipe e infraestrutura.
+Todas as contribuições realizadas em nossa loja possuem <mark style="color:$primary;">**caráter de doação voluntária**</mark>, com o objetivo de **auxiliar na manutenção, melhoria e continuidade do servidor**, incluindo custos com hospedagem, desenvolvimento, otimização, sistemas, equipe e infraestrutura.
 {% endhint %}
 
 Os itens, benefícios ou vantagens concedidos ao jogador são apenas **formas de agradecimento** pela doação realizada, **não configurando a venda de produtos ou serviços reais**
@@ -24,7 +24,7 @@ Os itens, benefícios ou vantagens concedidos ao jogador são apenas **formas de
 
 Só serão aceitos **arquivos abertos (open source)**.
 
-<mark style="background-color:$warning;">**Não aceitamos, em hipótese alguma:**</mark>
+<mark style="background-color:$primary;">**Não aceitamos, em hipótese alguma:**</mark>
 
 * Arquivos com proteção **Tebex**;
 * Scripts autenticados por IP, Key, licença externa ou qualquer sistema de bloqueio;
