@@ -60,7 +60,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Fleca Chaves.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Flecca Chaves.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -95,7 +95,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Flecca Life.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Flecca Life (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -128,7 +128,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Flecca Praia.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Flecca Praia (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -161,7 +161,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Flecca 68.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Flecca 68 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -194,7 +194,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Flecca Shoping.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Flecca Shopping.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -224,7 +224,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Galinheiro.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Galinheiro (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -262,7 +262,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Joalheria.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Joalheria (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -291,7 +291,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Mergulhador.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Mergulhador (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -323,4 +323,4 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Observatório.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Observatório (1).png" alt=""><figcaption></figcaption></figure>
