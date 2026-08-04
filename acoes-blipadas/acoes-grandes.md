@@ -79,7 +79,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 * [x] São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.
 * [x] É obrigatório portar o armamento necessário para realizar a ação.
 
-<figure><img src="../.gitbook/assets/Banco Central.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Banco Central (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -118,7 +118,7 @@ Só é permitido sair do banco após 5 minutos que o balão do inicio da ação 
 * [x] São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.
 * [x] É obrigatório portar o armamento necessário para realizar a ação.
 
-<figure><img src="../.gitbook/assets/Banco Paleto.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Banco Paleto (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -150,7 +150,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">**É obrigatório aguardar a polícia por 50 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.**</mark>
 
-<figure><img src="../.gitbook/assets/Banco Rosa.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Hotel Rosa.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -183,7 +183,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">**É obrigatório aguardar a polícia por 50 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.**</mark>
 
-<figure><img src="../.gitbook/assets/Madereira.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Madereira (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -223,4 +223,4 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">**É obrigatório aguardar a polícia por 50 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.**</mark>
 
-<figure><img src="../.gitbook/assets/Nióbio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Nióbio (1).png" alt=""><figcaption></figcaption></figure>

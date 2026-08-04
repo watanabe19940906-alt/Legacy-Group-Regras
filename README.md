@@ -2,13 +2,14 @@
 description: >-
   Dê vida ao seu personagem na Comando Roleplay, uma cidade planejada para
   oferecer o ápice da imersão e do realismo.
+cover: .gitbook/assets/ChatGPT Image 4 de ago. de 2026, 18_59_36.png
 coverY: 0
 layout:
   width: default
   cover:
     visible: true
-    size: background
-    mask: radial
+    size: full
+    mask: none
   title:
     visible: true
   description:
@@ -25,6 +26,8 @@ layout:
     visible: true
   actions:
     visible: true
+tags:
+  - cmd
 ---
 
 # 💚 Comando | Livro de Regras
