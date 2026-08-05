@@ -49,7 +49,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Aeroporto Trevor.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Aeroporto Trevor (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -79,7 +79,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Ammu Porto.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Ammu Porto (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -109,7 +109,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Ammu Praça.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Ammu Praça (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -139,7 +139,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Antena.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Antena (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -169,7 +169,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Auditório.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Auditório (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -199,7 +199,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Lojinha Samir.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Lojinha Samir (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -229,7 +229,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Comedy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Comedy (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -259,7 +259,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Fast Food.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Fast Food (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -292,7 +292,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Lojinha Banco Central.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Lojinha Banco Central (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -325,7 +325,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Lojinha Barragem.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Lojinha Barragem (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -358,7 +358,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Lojinha China.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Lojinha China (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -391,7 +391,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Lojinha Grapeseed.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Lojinha Grapeseed (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -424,7 +424,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Lojinha Groove.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Lojinha Groove (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -457,7 +457,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Lojinha Praia.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Lojinha Praia (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -490,7 +490,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/Lojinha Prefeitura.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Lojinha Prefeitura (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -520,7 +520,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
-<figure><img src="../.gitbook/assets/McDonalds.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/McDonalds (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -550,7 +550,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 30 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia</mark>
 
-<figure><img src="../.gitbook/assets/Planet.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Planet (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
