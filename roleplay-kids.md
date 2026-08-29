@@ -88,6 +88,28 @@ Não estejam ocorrendo atividades ilegais no momento. Os responsáveis estejam c
 * É terminantemente proibido sequestrar crianças.
 * Crianças podem trabalhar como jovem aprendiz (hospital, restaurante ou mecânica).
 
+{% hint style="success" %}
+## Fica autorizado que o COCUDO realize exclusivamente serviços internos dentro da Zona SAFE, respeitando as limitações abaixo. **A atuação será permitida somente dentro do estabelecimento, não sendo autorizado sair para atendimentos externos, exceto quando acompanhado e autorizado pelos responsáveis do respectivo estabelecimento.**
+
+&#x20;**💠 Hospital**
+
+* Permitido permanecer na unidade realizando atendimento de MACA;
+* Não poderá realizar atendimentos externos;
+* Saídas para atendimento externo somente poderão ocorrer com acompanhamento dos responsáveis.
+
+**💠 Restaurante**
+
+* Permitido permanecer no estabelecimento realizando suas atividades normalmente;
+* Não poderá realizar atendimentos externos;
+* Qualquer saída para atendimento externo deverá ocorrer somente com acompanhamento dos responsáveis.
+
+**💠 Mecanica**
+
+* Permitido permanecer na oficina realizando suas atividades normalmente;
+* Não poderá realizar atendimentos externos;
+* Qualquer saída para atendimento externo deverá ocorrer somente com acompanhamento dos responsáveis.
+{% endhint %}
+
 ## Obrigações Legais da Criança
 
 **Toda criança deve estar:**
