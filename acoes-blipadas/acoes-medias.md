@@ -12,7 +12,7 @@
 
 • Armamento: Submetralhadora.\
 • Smoke: 3 (máximo)\
-• Teti-Chão: Não. É proibido subir no telhado do açougue.
+• Teti-Chão: Sim. (Definição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**
@@ -32,7 +32,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 ## Fleeca Chaves
 
-<mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
+<mark style="background-color:$warning;">**Negociação: Inexistente**</mark>
 
 {% hint style="info" %}
 **Regras Bandidos:** 8 membros.
@@ -41,8 +41,11 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
 
 • Armamento: Submetralhadora ou Fuzil\
-• Smoke: 3 (negociável)\
-• Refém: 5 (Máximo).
+• Smoke: No máximo 2\
+• Podendo estar todos fora.\
+• Apenas helidrone sem atirador\
+• Proíbido a utilização de loja / interiores\
+• TETI-CHÃO: Obrigatório
 
 {% hint style="danger" icon="circle-x" %}
 **É** proibido marcar o drop policial.
@@ -50,23 +53,13 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
 
-#### Regras do Modo de Fuga&#x20;
-
-> **Reféns: No máximo 5 Reféns | Fuga Limpa: Negociável.**
-
-* [x] São necessários no mínimo 2 veículos por parte dos bandidos.
-* [x] São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.
-* [x] É obrigatório portar o armamento necessário para realizar a ação.
-
-<mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
-
 <figure><img src="../.gitbook/assets/Flecca Chaves.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ## Fleeca Life Invader
 
-<mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
+<mark style="background-color:$warning;">**Negociação: Inexistente.**</mark>
 
 {% hint style="info" %}
 **Regras Bandidos:**  8 membros.
@@ -75,23 +68,20 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
 
 • Armamento: Submetralhadora ou Fuzil\
-• Smoke: 3 (negociável)\
-• Refém: 5 (Máximo).
+• Smoke: 3 (negociável)\
+• Podendo estar todos fora.\
+• Apenas helidrone sem atirador\
+• Limite na piscina: 2 pessoas\
+• Limite L5: 2 pessoas\
+• Limite L5 Falso: 2 pessoas\
+• TETI-CHÃO: Obrigatório
+
+
 
 {% hint style="danger" icon="circle-x" %}
 **É** proibido marcar o drop policial.\
-É proibido utilizar o interior do Life Invader\
-No máximo 3 bandidos dentro da piscina.\
 O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
-
-#### Regras do Modo de Fuga&#x20;
-
-> **Reféns: No máximo 5 Reféns | Fuga Limpa: Negociável.**
-
-* [x] São necessários no mínimo 2 veículos por parte dos bandidos.
-* [x] São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.
-* [x] É obrigatório portar o armamento necessário para realizar a ação.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
@@ -101,7 +91,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 ## Fleeca Praia
 
-<mark style="background-color:$warning;">**Negociação: Obrigatória.**</mark>
+<mark style="background-color:$warning;">**Negociação: Inexistente**</mark>
 
 {% hint style="info" %}
 **Regras Bandidos:** 8 membros.
@@ -110,21 +100,15 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
 
 • Armamento: Submetralhadora ou Fuzil\
-• Smoke: 3 (negociável)\
-• Refém: 5 (Máximo).
+• Smoke: No máximo 2\
+• Podendo estar todos fora.\
+• Apenas helidrone sem atirador\
+• TETI-CHÃO: Obrigatório
 
 {% hint style="danger" icon="circle-x" %}
 **É** proibido marcar o drop policial.\
 O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
-
-#### Regras do Modo de Fuga&#x20;
-
-> **Reféns: No máximo 5 Reféns | Fuga Limpa: Negociável.**
-
-* [x] São necessários no mínimo 2 veículos por parte dos bandidos.
-* [x] São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.
-* [x] É obrigatório portar o armamento necessário para realizar a ação.
 
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
@@ -143,23 +127,15 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
 
 • Armamento: Submetralhadora ou Fuzil\
-• Smoke: 3 (negociável)\
-• Refém: 5 (Máximo).
+• Smoke: No máximo 2\
+• Podendo estar todos fora.\
+• Apenas helidrone sem atirador\
+• TETI-CHÃO: Obrigatório
 
 {% hint style="danger" icon="circle-x" %}
 **É** proibido marcar o drop policial.\
 O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
-
-#### Regras do Modo de Fuga&#x20;
-
-> **Reféns: No máximo 5 Reféns | Fuga Limpa: Negociável.**
-
-* [x] São necessários no mínimo 2 veículos por parte dos bandidos.
-* [x] São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.
-* [x] É obrigatório portar o armamento necessário para realizar a ação.
-
-<mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
 <figure><img src="../.gitbook/assets/Flecca 68 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -176,23 +152,17 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
 
 • Armamento: Submetralhadora ou Fuzil\
-• Smoke: 3 (negociável)\
-• Refém: 5 (Máximo).
+• Smoke: No máximo 2\
+• Podendo estar todos fora.\
+• Apenas helidrone sem atirador\
+• Limite estacionamento: 2 pessoas\
+• Proíbido a utilização de loja / interiores\
+• TETI-CHÃO: Obrigatório
 
 {% hint style="danger" icon="circle-x" %}
 **É** proibido marcar o drop policial.\
 O perímetro delimitado deve ser rigorosamente respeitado.
 {% endhint %}
-
-#### Regras do Modo de Fuga&#x20;
-
-> **Reféns: No máximo 5 Reféns | Fuga Limpa: Negociável.**
-
-* [x] São necessários no mínimo 2 veículos por parte dos bandidos.
-* [x] São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.
-* [x] É obrigatório portar o armamento necessário para realizar a ação.
-
-<mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
 <figure><img src="../.gitbook/assets/Flecca Shopping.png" alt=""><figcaption></figcaption></figure>
 
@@ -225,6 +195,35 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
 
 <figure><img src="../.gitbook/assets/Galinheiro (1).png" alt=""><figcaption></figcaption></figure>
+
+***
+
+## Fleca Praça
+
+<mark style="background-color:$warning;">**Negociação: Obrigatória**</mark>
+
+{% hint style="info" %}
+**Regras Bandidos:** 8 membros.
+
+**Polícia:**  10 membros.
+{% endhint %}
+
+• Armamento: Submetralhadora ou Fuzil
+
+{% hint style="warning" %}
+### **Regras do Modo de Fuga**
+
+Reféns: No máximo 5 Reféns | Fuga Limpa: Negociável.\
+\
+São necessários no mínimo 2 veículos por parte dos bandidos.\
+São permitidos no máximo 3 Unidades Policiais para cada veículo dos bandidos.\
+\
+<mark style="color:$primary;">**É obrigatório portar o armamento necessário para realizar a ação.**</mark>
+{% endhint %}
+
+<mark style="color:$warning;">É obrigatório aguardar a polícia por 40 minutos e, após o envio do QTI, é obrigatório permanecer no local até a chegada da polícia.</mark>
+
+<figure><img src="../.gitbook/assets/Design sem nome (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

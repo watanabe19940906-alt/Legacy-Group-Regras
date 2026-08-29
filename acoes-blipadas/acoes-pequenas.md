@@ -33,7 +33,7 @@ Caso o cidadão permaneça no interior do veículo capotado, o policial poderá 
 
 • Armamento: Pistola\
 • É Proibida a utilização de Smokes\
-• **Teti-Chão: Sim**
+• **Teti-Chão: Sim (**&#x44;efinição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**
@@ -58,14 +58,14 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Inexistente.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** Mínimo 2 e Máximo 3 membros.
+**Regras Bandidos:** 2 membros
 
-**Polícia:** 4 membros.
+**Polícia:** 3 membros.
 {% endhint %}
 
 • Armamento: Pistola\
 • É Proibida a utilização de Smokes\
-• **Teti-Chão: Sim**
+• **Teti-Chão: Sim (**&#x44;efinição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**
@@ -88,14 +88,14 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Inexistente.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** Mínimo 2 e Máximo 3 membros.
+**Regras Bandidos:** 2 Membros
 
-**Polícia: 4** membros.
+**Polícia: 3** membros.
 {% endhint %}
 
 • Armamento: Pistola\
 • É Proibida a utilização de Smokes\
-• **Teti-Chão: Sim**
+• **Teti-Chão: Sim (**&#x44;efinição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**
@@ -125,7 +125,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 • Armamento: Pistola\
 • É Proibida a utilização de Smokes\
-• **Teti-Chão: Sim**
+• **Teti-Chão: Sim (**&#x44;efinição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**
@@ -148,14 +148,14 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 <mark style="background-color:$warning;">**Negociação: Inexistente.**</mark>
 
 {% hint style="info" %}
-**Regras Bandidos:** 5 membros.
+**Regras Bandidos:** 6 membros.
 
-**Polícia: 7** membros.
+**Polícia: 8** membros.
 {% endhint %}
 
 • Armamento: Pistola\
 • É Proibida a utilização de Smokes\
-• **Teti-Chão: Sim**
+• **Teti-Chão: Sim (**&#x44;efinição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**
@@ -185,7 +185,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 • Armamento: Pistola\
 • É Proibida a utilização de Smokes\
-• **Teti-Chão: Sim**
+• **Teti-Chão: Sim (**&#x44;efinição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**
@@ -215,7 +215,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 • Armamento: Pistola\
 • É Proibida a utilização de Smokes\
-• **Teti-Chão: Sim**
+• **Teti-Chão: Sim (**&#x44;efinição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**
@@ -245,7 +245,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 • Armamento: Pistola\
 • É Proibida a utilização de Smokes\
-• **Teti-Chão: Sim**
+• **Teti-Chão: Sim (**&#x44;efinição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**
@@ -506,7 +506,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 • Armamento: Pistola\
 • É Proibida a utilização de Smokes\
-• **Teti-Chão: Sim**
+• **Teti-Chão: Sim (**&#x44;efinição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**
@@ -536,7 +536,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 • Armamento: Pistola\
 • É Proibida a utilização de Smokes\
-• **Teti-Chão: Sim**
+• **Teti-Chão: Sim (**&#x44;efinição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**
@@ -566,7 +566,7 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 &#x20;• É Proibida a utilização de Smokes&#x20;
 
-• Teti-Chão: Sim
+• Teti-Chão: Sim **(**&#x44;efinição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="circle-x" %}
 **Reféns: Não permitido.**

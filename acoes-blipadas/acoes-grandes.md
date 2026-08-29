@@ -98,7 +98,7 @@ _São permitidos, no máximo, 4 bandidos fora do Banco Paleto._
 • Armamento: Somente Fuzil.\
 • Smoke: 4 (negociável)\
 • Shotgun: 2 (negociável)\
-• Refém: Opcional (Máximo 5).
+• Refém: Opcional (Máximo 5).&#x20;
 
 {% hint style="danger" icon="hexagon-xmark" %}
 É proibido marcar o drop policial.
@@ -136,7 +136,7 @@ Só é permitido sair do banco após 5 minutos que o balão do inicio da ação 
 • Smoke: PROIBIDO.\
 • **É proibida a utilização da Shotgun para ambos os lados**\
 • É permitida a utilização de Helidrone.\
-• **Teti-Chão**: Sim.
+• **Teti-Chão**: Sim. (Definição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)
 
 {% hint style="danger" icon="hexagon-xmark" %}
 **Reféns: Não permitido.**
@@ -164,12 +164,10 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 **Polícia:** No máximo 15 membros.
 {% endhint %}
 
-• Armamento: Somente Fuzil.\
-• Negociação: Obrigatório.\
-• Smoke: 5 (no máximo)\
+• Armamento: Mínimo Sub.\
+• Smoke: 3 (no máximo)\
 • **É proibida a utilização da Shotgun para ambos os lados**\
-• Refém: Opcional (Máximo 5).\
-• É permitida a utilização de Helidrone.<br>
+• É permitida a utilização de somente Helidrone.<br>
 
 {% hint style="danger" icon="hexagon-xmark" %}
 **É proibido realizar a ação no modo de fuga.**
@@ -196,18 +194,14 @@ O perímetro delimitado deve ser rigorosamente respeitado.
 
 _É permitido o máximo de 4 bandidos no corredor final do Nióbio._
 
-_É permitido o máximo de 2 bandidos marcando a P2 do Nióbio_
-
 **Polícia:** No máximo 20 membros.
 {% endhint %}
 
 • Armamento: Somente Fuzil.\
 • Smoke: 5 (no máximo)\
 • **É proibida a utilização da Shotgun para ambos os lados**\
-• Refém: Opcional (Máximo 5).\
-• É permitida a utilização de Helidrone.\
-• **Teti-Chão**: Sim.\
-• Só é permitido marcar a P2 a partir da Porta Automática.
+• **Teti-Chão**: Sim. (Definição de TETI-CHÃO: Tudo que se sobe utilizando as MÃOS)\
+• Proibido marcar a P2 depois da Porta Automática que leva as escadas.
 
 {% hint style="danger" icon="hexagon-xmark" %}
 **É proibido realizar a ação no modo de fuga.**

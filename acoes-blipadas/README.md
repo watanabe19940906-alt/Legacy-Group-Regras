@@ -28,6 +28,8 @@ Proibido sequestrar em locais de spawn
 
 Para conquistar o Blip de uma ação, são necessários, no mínimo, **5 membros** setados da organização.&#x20;
 
+Em caso de disputa de blip próximo RR, a facção que tiver os 5 membros completos após o restart da base, tem o direito de realizar a ação.
+
 É de total responsabilidade da organização estar com seus membros presentes e ativos quando a polícia estiver presente para dar início à ocorrência.
 
 > A facção com prioridade (que chegar primeiro) deverá puxar a ação imediatamente ou assim que o cooldown terminar.
